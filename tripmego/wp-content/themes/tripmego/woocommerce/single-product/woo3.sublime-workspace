@@ -1,0 +1,319 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"PHP",
+				"php"
+			],
+			[
+				"wp_enqueue",
+				"wp_enqueue_scripts"
+			],
+			[
+				"wp_enque",
+				"wp_enqueue_scripts"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"before",
+				"check_before_add"
+			],
+			[
+				"bab",
+				"baby_inc"
+			],
+			[
+				"chil",
+				"children_inc"
+			],
+			[
+				"mysql_e",
+				"mysql_errno"
+			],
+			[
+				"pub",
+				"public"
+			],
+			[
+				"public",
+				"public"
+			],
+			[
+				"connect",
+				"connect_db"
+			],
+			[
+				"MYSQL",
+				"mysql_connect"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"mysql_err",
+				"mysql_error"
+			],
+			[
+				"mysql",
+				"mysql_error"
+			],
+			[
+				"my",
+				"mysql_pconnect"
+			],
+			[
+				"var_",
+				"var_dump"
+			],
+			[
+				"input",
+				"inputusername"
+			],
+			[
+				"session",
+				"session_start"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 404.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/woocommerce/content-single-product.php",
+		"/Users/tesheedk.k/Desktop/Video Footage/pagination.php",
+		"/Users/tesheedk.k/Desktop/Video Footage/content-product.php",
+		"/Users/tesheedk.k/Desktop/Video Footage/content-product_cat.php",
+		"/Users/tesheedk.k/Desktop/Video Footage/sale-flash.php",
+		"/Users/tesheedk.k/Desktop/Video Footage/loop-start.php",
+		"/Users/tesheedk.k/Desktop/Video Footage/loop-end.php",
+		"/Users/tesheedk.k/Desktop/Video Footage/result-count.php",
+		"/Users/tesheedk.k/Desktop/Video Footage/orderby.php",
+		"/Users/tesheedk.k/Desktop/Video Footage/price.php",
+		"/Users/tesheedk.k/Desktop/Video Footage/rating.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/plugins/tutsplus-product-archive-short-descriptions.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/woocommerce/test.html",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/woocommerce/single-product/add-to-cart/simple.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/woocommerce/single-product/tour-detail.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/woocommerce/single-product.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/inc/setting.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/footer.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/style.css",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/front-page.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/page.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/content-aside.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/content.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/single.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/search.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/content-gallery.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/content-quote.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/content-link.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/archive.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/index.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/searchform.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/header.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/sidebar.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/functions.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/home.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/single-book.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/page-product.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/single-post.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/single-product.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/normalize.css",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/tesheed.css",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/js/setup.js",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/customtheme/functions.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/customtheme/style.css",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/css/normalize.css",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/css/tesheed.css",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/css/style.css",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/popular.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/landing.php",
+		"/Users/tesheedk.k/Downloads/tesheeds-first-project-15a2eb.webflow (1)/index.html",
+		"/Applications/MAMP/htdocs/tripmego/test4.php",
+		"/Applications/MAMP/htdocs/tripmego/form_add_trip.php",
+		"/Applications/MAMP/htdocs/tripmego/class_login.php",
+		"/Applications/MAMP/htdocs/tripmego/logout.php",
+		"/Applications/MAMP/htdocs/tripmego/login_page.php",
+		"/Applications/MAMP/htdocs/tripmego/checkregister.php",
+		"/Applications/MAMP/htdocs/tripmego/connectDB3.php",
+		"/Applications/MAMP/htdocs/tripmego/result_select.php",
+		"/Applications/MAMP/htdocs/tripmego/connectDB2.php",
+		"/Applications/MAMP/htdocs/tripmego/select.php",
+		"/Applications/MAMP/htdocs/tripmego/class_connectdb.php",
+		"/Applications/MAMP/htdocs/tripmego/class2.php",
+		"/Applications/MAMP/htdocs/tripmego/learn.php",
+		"/Applications/MAMP/htdocs/tripmego/learnclass.php",
+		"/Applications/MAMP/htdocs/tripmego/inputform.php",
+		"/Applications/MAMP/htdocs/tripmego/display.php",
+		"/Applications/MAMP/htdocs/tripmego/config.php",
+		"/Applications/MAMP/htdocs/tripmego/test1.php",
+		"/Applications/MAMP/htdocs/tripmego/example_code.php",
+		"/Applications/MAMP/htdocs/tripmego/includes/class_mysql.php",
+		"/Applications/MAMP/htdocs/tripmego/pdo_contest.php",
+		"/Applications/MAMP/htdocs/tripmego/pdo_connect.php",
+		"/Applications/MAMP/htdocs/tripmego/check2.php",
+		"/Applications/MAMP/htdocs/tripmego/class_mysql.php",
+		"/Applications/MAMP/htdocs/tripmego/index.php",
+		"/Applications/MAMP/htdocs/tripmego/includes/test2.php",
+		"/Applications/MAMP/htdocs/tripmego/includes/config.php",
+		"/Applications/MAMP/htdocs/tripmego/check.php",
+		"/Applications/MAMP/htdocs/tripmego/check3.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "woo3.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 337.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

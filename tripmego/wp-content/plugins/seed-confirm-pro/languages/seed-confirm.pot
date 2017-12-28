@@ -1,0 +1,400 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-11-10 15:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: class-wc-email-customer-checking-payment.php:29 seed-confirm-pro.php:203
+#: seed-confirm-pro.php:1028
+msgid "Checking Payment"
+msgstr ""
+
+#: class-wc-email-customer-checking-payment.php:30
+msgid "This is an email notification sent to customers."
+msgstr ""
+
+#: class-wc-email-customer-checking-payment.php:31
+msgid "We are checking order payment"
+msgstr ""
+
+#: class-wc-email-customer-checking-payment.php:32
+msgid "Your {site_title} order receipt from {order_date}"
+msgstr ""
+
+#: seed-confirm-pro.php:88 seed-confirm-pro.php:1673 seed-confirm-pro.php:1678
+#: seed-confirm-pro.php:1683
+msgid "Confirm Payment"
+msgstr ""
+
+#: seed-confirm-pro.php:100
+msgid "Thank you for your payment. We will process your order shortly."
+msgstr ""
+
+#: seed-confirm-pro.php:182
+msgctxt "WooCommerce Order status"
+msgid "Checking Payment"
+msgstr ""
+
+#: seed-confirm-pro.php:187
+#, php-format
+msgid "Checking Payment <span class=\"count\">(%s)</span>"
+msgid_plural "Checking Payment <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: seed-confirm-pro.php:241
+msgid "There is no BACS setting. Please check"
+msgstr ""
+
+#: seed-confirm-pro.php:241
+msgid "Settings - BACS"
+msgstr ""
+
+#: seed-confirm-pro.php:279
+msgid "Our Bank Details"
+msgstr ""
+
+#: seed-confirm-pro.php:285 seed-confirm-pro.php:1056
+msgid "Bank Name"
+msgstr ""
+
+#: seed-confirm-pro.php:286
+msgid "Sort Code"
+msgstr ""
+
+#: seed-confirm-pro.php:287 seed-confirm-pro.php:1055
+msgid "Account Number"
+msgstr ""
+
+#: seed-confirm-pro.php:288 seed-confirm-pro.php:1054
+msgid "Account Name"
+msgstr ""
+
+#: seed-confirm-pro.php:407 seed-confirm-pro.php:658 seed-confirm-pro.php:945
+msgid "Name"
+msgstr ""
+
+#: seed-confirm-pro.php:411 seed-confirm-pro.php:663 seed-confirm-pro.php:947
+msgid "Contact"
+msgstr ""
+
+#: seed-confirm-pro.php:419 seed-confirm-pro.php:668 seed-confirm-pro.php:973
+msgid "Address"
+msgstr ""
+
+#: seed-confirm-pro.php:427 seed-confirm-pro.php:949
+msgid "Order"
+msgstr ""
+
+#: seed-confirm-pro.php:458
+msgid "[Noted] "
+msgstr ""
+
+#: seed-confirm-pro.php:459
+msgid "No. "
+msgstr ""
+
+#: seed-confirm-pro.php:459
+msgid " - Amount: "
+msgstr ""
+
+#: seed-confirm-pro.php:474 seed-confirm-pro.php:687 seed-confirm-pro.php:951
+msgid "Amount"
+msgstr ""
+
+#: seed-confirm-pro.php:485 seed-confirm-pro.php:953
+msgid "Bank Account"
+msgstr ""
+
+#: seed-confirm-pro.php:495
+msgid "Branch: "
+msgstr ""
+
+#: seed-confirm-pro.php:504 seed-confirm-pro.php:580
+msgid "There is no BACS setting. Please contact administrator."
+msgstr ""
+
+#: seed-confirm-pro.php:511 seed-confirm-pro.php:955
+msgid "Transfer Date"
+msgstr ""
+
+#: seed-confirm-pro.php:515
+msgid "Time"
+msgstr ""
+
+#: seed-confirm-pro.php:565 seed-confirm-pro.php:957
+msgid "Payment Slip"
+msgstr ""
+
+#: seed-confirm-pro.php:572 seed-confirm-pro.php:708 seed-confirm-pro.php:975
+msgid "Remark"
+msgstr ""
+
+#: seed-confirm-pro.php:580
+msgid "Submit Payment Detail"
+msgstr ""
+
+#: seed-confirm-pro.php:652
+#, php-format
+msgid "Order number <a href=\"%s\">%s</a> has been noted."
+msgstr ""
+
+#: seed-confirm-pro.php:673
+msgid "Order no"
+msgstr ""
+
+#: seed-confirm-pro.php:680
+msgid "Bank name"
+msgstr ""
+
+#: seed-confirm-pro.php:682
+msgid "Account no"
+msgstr ""
+
+#: seed-confirm-pro.php:692
+msgid "Date"
+msgstr ""
+
+#: seed-confirm-pro.php:717
+msgid "Order no. "
+msgstr ""
+
+#: seed-confirm-pro.php:717
+msgid " by "
+msgstr ""
+
+#: seed-confirm-pro.php:742
+#, php-format
+msgid "<a href=\"%s\">View attatched file</a>"
+msgstr ""
+
+#: seed-confirm-pro.php:851 seed-confirm-pro.php:853
+msgid "Confirm Logs"
+msgstr ""
+
+#: seed-confirm-pro.php:878 seed-confirm-pro.php:879
+msgid "Settings"
+msgstr ""
+
+#: seed-confirm-pro.php:906
+msgid "Seed Confirm Settings"
+msgstr ""
+
+#: seed-confirm-pro.php:908 seed-confirm-pro.php:1043
+msgid "Bank Accounts"
+msgstr ""
+
+#: seed-confirm-pro.php:911 seed-confirm-pro.php:1100
+msgid "Auto Cancel Unpaid Orders"
+msgstr ""
+
+#: seed-confirm-pro.php:913 seed-confirm-pro.php:1132
+msgid "License"
+msgstr ""
+
+#: seed-confirm-pro.php:917
+msgid "Your settings have been saved."
+msgstr ""
+
+#: seed-confirm-pro.php:925
+msgid "Confirm Payment Form"
+msgstr ""
+
+#: seed-confirm-pro.php:929
+msgid "Page"
+msgstr ""
+
+#: seed-confirm-pro.php:942
+msgid "Required fields"
+msgstr ""
+
+#: seed-confirm-pro.php:961
+msgid "Optional fields"
+msgstr ""
+
+#: seed-confirm-pro.php:970
+msgid " <i>(Disable when WooCommerce is activated.)</i>"
+msgstr ""
+
+#: seed-confirm-pro.php:982
+msgid "After Submit"
+msgstr ""
+
+#: seed-confirm-pro.php:987
+msgid "Page to redirect"
+msgstr ""
+
+#: seed-confirm-pro.php:990
+msgid "(Current Page)"
+msgstr ""
+
+#: seed-confirm-pro.php:1003
+msgid "Message (for Current Page)"
+msgstr ""
+
+#: seed-confirm-pro.php:1007
+msgid "Background Color"
+msgstr ""
+
+#: seed-confirm-pro.php:1012
+msgid "Currency symbol in Log"
+msgstr ""
+
+#: seed-confirm-pro.php:1017
+msgid "Store Admin E-mail"
+msgstr ""
+
+#: seed-confirm-pro.php:1019
+msgid "Notify after submit. Seperate e-mail accounts by comma (,)."
+msgstr ""
+
+#: seed-confirm-pro.php:1022
+msgid "Change Order Status?"
+msgstr ""
+
+#: seed-confirm-pro.php:1024
+msgid "Unchange"
+msgstr ""
+
+#: seed-confirm-pro.php:1025
+msgid "Change To"
+msgstr ""
+
+#: seed-confirm-pro.php:1027
+msgid "Processing"
+msgstr ""
+
+#: seed-confirm-pro.php:1044
+msgid "Direct bank/wire transfer account information."
+msgstr ""
+
+#: seed-confirm-pro.php:1048
+msgid "Account Details"
+msgstr ""
+
+#: seed-confirm-pro.php:1057
+msgid "Branch"
+msgstr ""
+
+#: seed-confirm-pro.php:1058
+msgid "IBAN"
+msgstr ""
+
+#: seed-confirm-pro.php:1059
+msgid "BIC / Swift"
+msgstr ""
+
+#: seed-confirm-pro.php:1085
+msgid "+ Add Account"
+msgstr ""
+
+#: seed-confirm-pro.php:1085
+msgid "Remove selected account(s)"
+msgstr ""
+
+#: seed-confirm-pro.php:1101
+msgid ""
+"Change order status from on-hold to cancelled automatically after x minutes."
+msgstr ""
+
+#: seed-confirm-pro.php:1106
+msgid "Enable?"
+msgstr ""
+
+#: seed-confirm-pro.php:1114
+msgid "Pending time"
+msgstr ""
+
+#: seed-confirm-pro.php:1118
+msgid "Minutes (60 minutes = 1 hour, 1440 minutes = 1 day)"
+msgstr ""
+
+#: seed-confirm-pro.php:1137
+msgid "License Key"
+msgstr ""
+
+#: seed-confirm-pro.php:1141
+msgid "Enter your license key"
+msgstr ""
+
+#: seed-confirm-pro.php:1147
+msgid "Activate License"
+msgstr ""
+
+#: seed-confirm-pro.php:1151
+msgid "active"
+msgstr ""
+
+#: seed-confirm-pro.php:1288
+msgid "Order Status"
+msgstr ""
+
+#: seed-confirm-pro.php:1468 seed-confirm-pro.php:1515
+#: seed-confirm-pro.php:1576
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: seed-confirm-pro.php:1482
+#, php-format
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: seed-confirm-pro.php:1489
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: seed-confirm-pro.php:1494
+msgid "Invalid license."
+msgstr ""
+
+#: seed-confirm-pro.php:1500
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: seed-confirm-pro.php:1505
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: seed-confirm-pro.php:1510
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: templates/emails/customer-checking-payment.php:29
+#: templates/emails/plain/customer-checking-payment.php:29
+msgid ""
+"Your confirmation has been received. Now we are checking the payment. Your "
+"order details are shown below for your reference:"
+msgstr ""
+
+#. Name of the plugin
+msgid "Seed Confirm Pro"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Creates confirmation form for bank transfer payment. If using with "
+"WooCommerce, this plugin will get bank information from WooCommerce."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.seedthemes.com/plugin/seed-confirm-pro"
+msgstr ""
+
+#. Author of the plugin
+msgid "SeedThemes"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.seedthemes.com"
+msgstr ""

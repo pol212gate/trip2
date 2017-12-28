@@ -1,0 +1,1782 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"test",
+				"test_price"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"align",
+				"align-content"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"PHP",
+				"php"
+			],
+			[
+				"wp_enqueue",
+				"wp_enqueue_scripts"
+			],
+			[
+				"wp_enque",
+				"wp_enqueue_scripts"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"before",
+				"check_before_add"
+			],
+			[
+				"bab",
+				"baby_inc"
+			],
+			[
+				"chil",
+				"children_inc"
+			],
+			[
+				"mysql_e",
+				"mysql_errno"
+			],
+			[
+				"pub",
+				"public"
+			],
+			[
+				"public",
+				"public"
+			],
+			[
+				"connect",
+				"connect_db"
+			],
+			[
+				"MYSQL",
+				"mysql_connect"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"mysql_err",
+				"mysql_error"
+			],
+			[
+				"mysql",
+				"mysql_error"
+			],
+			[
+				"my",
+				"mysql_pconnect"
+			],
+			[
+				"var_",
+				"var_dump"
+			],
+			[
+				"input",
+				"inputusername"
+			],
+			[
+				"session",
+				"session_start"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "comments.php",
+			"settings":
+			{
+				"buffer_size": 2737,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "archive.php",
+			"settings":
+			{
+				"buffer_size": 3560,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "single.php",
+			"settings":
+			{
+				"buffer_size": 1151,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "content.php",
+			"settings":
+			{
+				"buffer_size": 4766,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 1457,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "template.php",
+			"settings":
+			{
+				"buffer_size": 3929,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "page.php",
+			"settings":
+			{
+				"buffer_size": 1887,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "woocommerce.php",
+			"settings":
+			{
+				"buffer_size": 733,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "search.php",
+			"settings":
+			{
+				"buffer_size": 780,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "404.php",
+			"settings":
+			{
+				"buffer_size": 1914,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "inc/theme-customizer.php",
+			"settings":
+			{
+				"buffer_size": 4044,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "function mytheme_customize_register( $wp_customize"
+			}
+		},
+		{
+			"file": "functions.php",
+			"settings":
+			{
+				"buffer_size": 29997,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/wordpress/wp-config.php",
+			"settings":
+			{
+				"buffer_size": 3131,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "header.php",
+			"settings":
+			{
+				"buffer_size": 7442,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "exam.php",
+			"settings":
+			{
+				"buffer_size": 2471,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "footer.php",
+			"settings":
+			{
+				"buffer_size": 4849,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "testnavbar.html",
+			"settings":
+			{
+				"buffer_size": 4933,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "<html>"
+			}
+		},
+		{
+			"file": "front-page.php",
+			"settings":
+			{
+				"buffer_size": 7942,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test-front-page.php",
+			"settings":
+			{
+				"buffer_size": 32884,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "inc/widgets.php",
+			"settings":
+			{
+				"buffer_size": 4332,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "              <input class=\"search0 w-input\" data-name=\"Email 2\" id=\"email-2\" maxlength=\"256\" name=\"email-2\" placeholder=\"Country\" required=\"required\" type=\"text\">\n              <div class=\"dropdown_date w-dropdown\" data-delay=\"0\">\n                <div class=\"dropdown_search w-dropdown-toggle\">\n                  <div class=\"w-icon-dropdown-toggle\"></div>\n                  <div class=\"text_insearch\">Date</div>\n                </div>\n                <nav class=\"w-dropdown-list\"><a class=\"w-dropdown-link\" href=\"#\">Link 1</a><a class=\"w-dropdown-link\" href=\"#\">Link 2</a><a class=\"w-dropdown-link\" href=\"#\">Link 3</a></nav>\n              </div>\n              <div class=\"dropdown_lookingfor w-dropdown\" data-delay=\"0\">\n                <div class=\"dropdown_search w-dropdown-toggle\">\n                  <div class=\"w-icon-dropdown-toggle\"></div>\n                  <div class=\"text_insearch\">Looking for</div>\n                </div>\n                <nav class=\"w-dropdown-list\"><a class=\"w-dropdown-link\" href=\"#\">Link 1</a><a class=\"w-dropdown-link\" href=\"#\">Link 2</a><a class=\"w-dropdown-link\" href=\"#\">Link 3</a></nav>\n              </div>\n              <div class=\"dropdown_price w-dropdown\" data-delay=\"0\">\n                <div class=\"dropdown_search w-dropdown-toggle\">\n                  <div class=\"w-icon-dropdown-toggle\"></div>\n                  <div class=\"text_insearch\">Price</div>\n                </div>\n                <nav class=\"w-dropdown-list\">\n                  <a class=\"w-dropdown-link\" href=\"#\">Link 1</a>\n                  <a class=\"w-dropdown-link\" href=\"#\">Link 2</a>\n                  <a class=\"w-dropdown-link\" href=\"#\">Link 3</a>\n                </nav>\n              </div>\n              <input class=\"submit-button-7 w-button\" data-wait=\"Please wait...\" type=\"submit\" value=\"FIND\">\n         \n            <div class=\"w-form-done\">\n              <div>Thank you! Your submission has been received!</div>\n            </div>\n            <div class=\"w-form-fail\">\n              <div>Oops! Something went wrong while submitting the form.</div>\n            </div>",
+			"settings":
+			{
+				"buffer_size": 2084,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<?php\n// create custom plugin settings menu\nadd_action('admin_menu', 'my_cool_plugin_create_menu');\n\nfunction my_cool_plugin_create_menu() {\n\n\t//create new top-level menu\n\tadd_menu_page('My Cool Plugin Settings', 'Cool Settings', 'administrator', __FILE__, 'my_cool_plugin_settings_page' , plugins_url('/images/icon.png', __FILE__) );\n\n\t//call register settings function\n\tadd_action( 'admin_init', 'register_my_cool_plugin_settings' );\n}\n\n\nfunction register_my_cool_plugin_settings() {\n\t//register our settings\n\tregister_setting( 'my-cool-plugin-settings-group', 'new_option_name' );\n\tregister_setting( 'my-cool-plugin-settings-group', 'some_other_option' );\n\tregister_setting( 'my-cool-plugin-settings-group', 'option_etc' );\n}\n\nfunction my_cool_plugin_settings_page() {\n?>\n<div class=\"wrap\">\n<h1>Your Plugin Name</h1>\n\n<form method=\"post\" action=\"options.php\">\n    <?php settings_fields( 'my-cool-plugin-settings-group' ); ?>\n    <?php do_settings_sections( 'my-cool-plugin-settings-group' ); ?>\n    <table class=\"form-table\">\n        <tr valign=\"top\">\n        <th scope=\"row\">New Option Name</th>\n        <td><input type=\"text\" name=\"new_option_name\" value=\"<?php echo esc_attr( get_option('new_option_name') ); ?>\" /></td>\n        </tr>\n         \n        <tr valign=\"top\">\n        <th scope=\"row\">Some Other Option</th>\n        <td><input type=\"text\" name=\"some_other_option\" value=\"<?php echo esc_attr( get_option('some_other_option') ); ?>\" /></td>\n        </tr>\n        \n        <tr valign=\"top\">\n        <th scope=\"row\">Options, Etc.</th>\n        <td><input type=\"text\" name=\"option_etc\" value=\"<?php echo esc_attr( get_option('option_etc') ); ?>\" /></td>\n        </tr>\n    </table>\n    \n    <?php submit_button(); ?>\n\n</form>\n</div>\n<?php } ?>",
+			"file": "inc/options.php",
+			"file_size": 1752,
+			"file_write_time": 131516572280000000,
+			"settings":
+			{
+				"buffer_size": 1752,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "inc/metabox.php",
+			"settings":
+			{
+				"buffer_size": 3996,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "inc/settings.php",
+			"settings":
+			{
+				"buffer_size": 2433,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "content-quote.php",
+			"settings":
+			{
+				"buffer_size": 89,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "content-link.php",
+			"settings":
+			{
+				"buffer_size": 68,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "content-gallery.php",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "content-aside.php",
+			"settings":
+			{
+				"buffer_size": 1742,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "searchform.php",
+			"settings":
+			{
+				"buffer_size": 713,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sidebar.php",
+			"settings":
+			{
+				"buffer_size": 393,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 96230,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "normalize.css",
+			"settings":
+			{
+				"buffer_size": 7755,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tesheed.css",
+			"settings":
+			{
+				"buffer_size": 319369,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 404.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/content.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/masonry-docs.css",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/functions.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/content-book.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/book.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/page.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/tesheed.css",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/plugins/tutsplus-product-archive-short-descriptions.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/plugins/cloudways-product-shor-des.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/single.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/inc/setting.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/footer.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/style.css",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/front-page.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/content-aside.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/search.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/content-gallery.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/content-quote.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/content-link.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/archive.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/index.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/searchform.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/header.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/sidebar.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/home.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/single-book.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/page-product.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/single-post.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/single-product.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/normalize.css",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/js/setup.js",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/customtheme/functions.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/customtheme/style.css",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/css/normalize.css",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/css/tesheed.css",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/css/style.css",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/popular.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/landing.php",
+		"/Users/tesheedk.k/Downloads/tesheeds-first-project-15a2eb.webflow (1)/index.html",
+		"/Applications/MAMP/htdocs/tripmego/test4.php",
+		"/Applications/MAMP/htdocs/tripmego/form_add_trip.php",
+		"/Applications/MAMP/htdocs/tripmego/class_login.php",
+		"/Applications/MAMP/htdocs/tripmego/logout.php",
+		"/Applications/MAMP/htdocs/tripmego/login_page.php",
+		"/Applications/MAMP/htdocs/tripmego/checkregister.php",
+		"/Applications/MAMP/htdocs/tripmego/connectDB3.php",
+		"/Applications/MAMP/htdocs/tripmego/result_select.php",
+		"/Applications/MAMP/htdocs/tripmego/connectDB2.php",
+		"/Applications/MAMP/htdocs/tripmego/select.php",
+		"/Applications/MAMP/htdocs/tripmego/class_connectdb.php",
+		"/Applications/MAMP/htdocs/tripmego/class2.php",
+		"/Applications/MAMP/htdocs/tripmego/learn.php",
+		"/Applications/MAMP/htdocs/tripmego/learnclass.php",
+		"/Applications/MAMP/htdocs/tripmego/inputform.php",
+		"/Applications/MAMP/htdocs/tripmego/display.php",
+		"/Applications/MAMP/htdocs/tripmego/config.php",
+		"/Applications/MAMP/htdocs/tripmego/test1.php",
+		"/Applications/MAMP/htdocs/tripmego/example_code.php",
+		"/Applications/MAMP/htdocs/tripmego/includes/class_mysql.php",
+		"/Applications/MAMP/htdocs/tripmego/pdo_contest.php",
+		"/Applications/MAMP/htdocs/tripmego/pdo_connect.php",
+		"/Applications/MAMP/htdocs/tripmego/check2.php",
+		"/Applications/MAMP/htdocs/tripmego/class_mysql.php",
+		"/Applications/MAMP/htdocs/tripmego/index.php",
+		"/Applications/MAMP/htdocs/tripmego/includes/test2.php",
+		"/Applications/MAMP/htdocs/tripmego/includes/config.php",
+		"/Applications/MAMP/htdocs/tripmego/check.php",
+		"/Applications/MAMP/htdocs/tripmego/check3.php"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"box-sha",
+			"btn_profile",
+			"myBtn2",
+			"select.png",
+			"TH_flag",
+			"font-family",
+			"sukhumwit",
+			"sukhum",
+			";\n",
+			"box-shadow",
+			"border-shadow",
+			"example-bg",
+			".um",
+			"modal",
+			"masonry6",
+			"item_book",
+			"masonry6",
+			"masonry6\n",
+			"item_book",
+			"masonry6",
+			"masonry5",
+			".container_detail",
+			".container_etail",
+			"div_tour_detail",
+			"masonry2",
+			"masonry1",
+			"trip_box",
+			"modal-content",
+			"media",
+			"@media",
+			"container2",
+			"div_intime",
+			".div_box_left3",
+			"media",
+			".container2 ul li",
+			"toggler",
+			"div_intime",
+			"toggler",
+			"กรอ๘รืะรทำ",
+			"div_intime",
+			"toggle",
+			".toggle",
+			"#toggle",
+			"#div_intime",
+			"#toggle",
+			"toggle",
+			".woocommerce div.product div.images.woocommerce-product-gallery",
+			"div_intime",
+			"toggle",
+			"div_intime",
+			"tour-info-",
+			"media",
+			"medi",
+			"searchsubmit",
+			"hero-section",
+			"้ำพน-หำแะรนื",
+			"pic1.png",
+			"input-",
+			".dropdown_select_country",
+			"media",
+			"searchsubmit",
+			".btn_search",
+			".btn_responsive_menu",
+			".search",
+			"sidenav",
+			"div_tour_detail",
+			"h6_viewall",
+			"h6_view",
+			"link_view_all",
+			"frameimg",
+			"media",
+			".p_div_detail",
+			"h2",
+			"div_detail",
+			"searchsubmit",
+			"masonry",
+			"tab_menu",
+			"private",
+			"../",
+			"<?",
+			"php",
+			"private",
+			"h6_viewall",
+			"item",
+			"div_detail",
+			"excerpt",
+			"div_detail",
+			"box_title",
+			".item_frontpage",
+			".item",
+			"media",
+			"div-block-6",
+			"masonry",
+			"select.png",
+			"masonry",
+			".h2_head_title",
+			"onsale2",
+			"post",
+			".item_fro",
+			"h2_head_title",
+			"wrapper",
+			"masonry",
+			"ทฟหนืพั",
+			".dropdown_select_country",
+			".item ",
+			"item",
+			".btn_reg_log",
+			".menu",
+			"btn_reg_log",
+			"btn_พำเ๘สนเ",
+			"btn_booking_now",
+			"h5_q",
+			"h4_menu_porfile",
+			"closebtn2",
+			"wt-list",
+			"wt-list-date active",
+			"wt-depar",
+			"container_detail",
+			"main_section_detail-trip",
+			".Wrapper",
+			"summary entry-summary",
+			"div_tour_detail",
+			".div_total_price",
+			".woocommerce div.product p.price",
+			"myModal",
+			"myBtn",
+			"media",
+			"item"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"tripmego"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 17,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "comments.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2737,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2040,
+								2025
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "archive.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3560,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2128,
+								2099
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 476.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "single.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1151,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								660,
+								660
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "content.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4766,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								890,
+								890
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1457,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								386,
+								386
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "template.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3929,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								553,
+								553
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "page.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1887,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								533,
+								533
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 329.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "woocommerce.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 733,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								521,
+								521
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "search.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 780,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								334,
+								334
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "404.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1914,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								415,
+								415
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "inc/theme-customizer.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4044,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								477,
+								477
+							]
+						],
+						"settings":
+						{
+							"auto_name": "function mytheme_customize_register( $wp_customize",
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "functions.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 29997,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21720,
+								21720
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 10398.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/Applications/MAMP/htdocs/wordpress/wp-config.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3131,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2326,
+								2326
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 779.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7442,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2516,
+								2516
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 346.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "exam.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2471,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2469,
+								582
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 60.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "footer.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4849,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4772,
+								4100
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 734.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "testnavbar.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4933,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4449,
+								4449
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<html>",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3090.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 31,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "front-page.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7942,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3285,
+								3285
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 737.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "test-front-page.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 32884,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5574,
+								5574
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1370.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 25,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "inc/widgets.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4332,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								516,
+								516
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 24,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2084,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								328,
+								328
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 23,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "inc/options.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1752,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								819,
+								819
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "inc/metabox.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3996,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								38,
+								38
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "inc/settings.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2433,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								485,
+								485
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 30,
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "content-quote.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 89,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 29,
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"file": "content-link.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 68,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 28,
+					"type": "text"
+				},
+				{
+					"buffer": 26,
+					"file": "content-gallery.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 27,
+					"type": "text"
+				},
+				{
+					"buffer": 27,
+					"file": "content-aside.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1742,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 298.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 26,
+					"type": "text"
+				},
+				{
+					"buffer": 28,
+					"file": "searchform.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 713,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								713,
+								713
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 29,
+					"file": "sidebar.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 393,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								393,
+								393
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 32,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 30,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 96230,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								95496,
+								92620
+							]
+						],
+						"settings":
+						{
+							"rulers":
+							[
+								70
+							],
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 65715.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 31,
+					"file": "normalize.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7755,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								596,
+								598
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 32,
+					"file": "tesheed.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 319369,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								125771,
+								125773
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 106958.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.753446691176,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "group.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 264.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

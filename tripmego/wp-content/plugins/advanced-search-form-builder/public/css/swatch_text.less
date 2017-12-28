@@ -1,0 +1,45 @@
+@sw_text_heightIcon : 40px;
+
+@sw_text_bgColorActive : #4caf50;
+@sw_text_borderActive: 2px solid #fff;
+@sw_text_colorActive: #000;
+
+@sw_text_colorTextlabelCheckbox: #333;
+@sw_text_fontsizeTextlabelCheckbox: 12px;
+@sw_text_paddingText: 6px 15px;
+@sw_text_bgText: #fff;
+@sw_text_borderText: 1px solid #d0d0d0;
+@sw_text_borderRadius: 3px;
+
+//variable//
+
+.asfbSwatchLabel{
+  position: relative;
+  min-height: @sw_text_heightIcon;
+  display: inline-block;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  .btn-style();
+  input {
+    display: none;
+    &:checked + .textLabel {
+      background-color: @sw_text_bgColorActive;
+      border: @sw_text_borderActive;
+      color: @sw_text_colorActive;
+    }
+  }
+  .textLabel {
+    color: @sw_text_colorTextlabelCheckbox;
+    font-size: @sw_text_fontsizeTextlabelCheckbox;
+    display: block;
+    padding: @sw_text_paddingText;
+    background: @sw_text_bgText;
+    border: @sw_text_borderText;
+    border-radius: @sw_text_borderRadius;
+  }
+  &.hiddenLabel {
+    .textLabel {
+      display: none;
+    }
+  }
+}

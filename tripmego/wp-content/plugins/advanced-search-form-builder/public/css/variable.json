@@ -1,0 +1,180 @@
+{
+  "input" : {
+    "key": "input",
+    "title": "Input",
+    "data": [
+      {
+        "label" : "Height",
+        "name": "heightInput",
+        "default" : "40px"
+      },
+      {
+        "label" : "borderRadius",
+        "name": "borderRadius",
+        "default" : "3px"
+      },
+      {
+        "label" : "borderLeft",
+        "name": "borderLeft",
+        "default" : "1px solid #d0d0d0"
+      },
+      {
+        "label" : "borderRight",
+        "name": "borderRight",
+        "default" : "1px solid #d0d0d0"
+      },
+      {
+        "label" : "borderTop",
+        "name": "borderTop",
+        "default" : "1px solid #d0d0d0"
+      },
+      {
+        "label" : "borderBottom",
+        "name": "borderBottom",
+        "default" : "1px solid #d0d0d0"
+      }
+    ]
+  },
+  "select": {
+    "key": "select",
+    "title": "Select",
+    "data": [
+      {"label": "Option background", "name": "sl_option_bgcolor", "default": "#fff"},
+      {"label": "Option color", "name": "sl_option_color", "default": "#000"},
+      {"label": "Option padding", "name": "sl_option_padding", "default": "6px 12px"},
+      {"label": "Option font size", "name": "sl_option_font", "default": "15px"},
+
+      {"label": "", "name":"hr", "default": ""},
+
+      {"label": "Option bg hover", "name": "sl_option_bgcolor_hover", "default": "#d9d9d9"},
+      {"label": "Option color hover", "name": "sl_option_color_hover", "default": "#333"},
+
+      {"label": "", "name":"hr", "default": ""},
+
+      {"label": "Option bg active", "name": "sl_option_bgcolor_active", "default": "#4acf50"},
+      {"label": "Option color active", "name": "sl_option_color_active", "default": "#fff"},
+
+      {"label": "", "name":"hr", "default": ""},
+
+      {"label": "Btn background", "name": "sl_btn_bgcolor", "default": "#fff"},
+      {"label": "Btn border", "name": "sl_btn_border", "default": "2px solid #d0d0d0"},
+      {"label": "Btn padding", "name": "sl_btn_padding", "default": "6px 10px"},
+      {"label": "Btn radius", "name": "sl_btn_radius", "default": "20px"},
+      {"label": "Btn color", "name": "sl_btn_color", "default": "#000"},
+      {"label": "Arrow color", "name": "sl_btn_color_arrow", "default": "#d9d9d9"}
+    ]
+  },
+  "radio": {
+    "key": "radio",
+    "title": "Radio",
+    "data": [
+      {"label": "Icon width",         "name":"radio_widthIcon",         "default": "24px" },
+      {"label": "Icon height",        "name":"radio_heightIcon",        "default": "24px" },
+      {"label": "Icon border width",  "name":"radio_borderWidthIcon",   "default": "2px"  },
+      {"label": "Icon border color",  "name":"radio_borderColorIcon",   "default": "#666" },
+      {"label": "Icon background",    "name":"radio_bgColorIcon",       "default": "#fff" },
+      {"label": "Icon radius",        "name":"radio_radiusIcon",        "default": "50%" },
+
+      {"label": "", "name":"hr", "default": ""},
+
+      {"label": "Arrow color", "name":"radio_colorIconFa", "default": "#999"},
+      {"label": "Arrow size", "name":"radio_fontsizeIconFa", "default": "12px"},
+
+      {"label": "", "name":"hr", "default": ""},
+
+      {"label": "Icon background ACTIVE", "name":"radio_bgColorIconActive", "default": "#1663ff"},
+      {"label": "Icon border color ACTIVE", "name":"radio_borderColorIconActive", "default": "#1663ff"},
+      {"label": "Arrow color ACTIVE", "name":"radio_colorIconFaActive", "default": "#fff"},
+
+      {"label": "", "name":"hr", "default": ""},
+
+      {"label": "Icon background HOVER",    "name":"radio_bgColorIconHover",     "default": "#1663ff"},
+      {"label": "Icon border color HOVER",  "name":"radio_borderColorIconHover", "default": "#1663ff"},
+      {"label": "Arrow color HOVER",        "name":"radio_colorIconFaHover",     "default": "#fff"}
+    ]
+  },
+  "checkbox": {
+    "key": "checkbox",
+    "title": "Checkbox",
+    "data": [
+      {"label": "Icon width",         "name":"checkbox_widthIcon",         "default": "24px" },
+      {"label": "Icon height",        "name":"checkbox_heightIcon",        "default": "24px" },
+      {"label": "Icon border width",  "name":"checkbox_borderWidthIcon",   "default": "2px"  },
+      {"label": "Icon border color",  "name":"checkbox_borderColorIcon",   "default": "#666" },
+      {"label": "Icon background",    "name":"checkbox_bgColorIcon",       "default": "#fff" },
+      {"label": "Icon radius",        "name":"checkbox_radiusIcon",        "default": "3px" },
+
+      {"label": "", "name":"hr", "default": ""},
+
+      {"label": "Arrow color", "name":"checkbox_colorIconFa", "default": "#999"},
+      {"label": "Arrow size", "name":"checkbox_fontsizeIconFa", "default": "12px"},
+
+      {"label": "", "name":"hr", "default": ""},
+
+      {"label": "Icon background ACTIVE", "name":"checkbox_bgColorIconActive", "default": "#1663ff"},
+      {"label": "Icon border color ACTIVE", "name":"checkbox_borderColorIconActive", "default": "#1663ff"},
+      {"label": "Arrow color ACTIVE", "name":"checkbox_colorIconFaActive", "default": "#fff"},
+
+      {"label": "", "name":"hr", "default": ""},
+
+      {"label": "Icon background HOVER",    "name":"checkbox_bgColorIconHover",     "default": "#1663ff"},
+      {"label": "Icon border color HOVER",  "name":"checkbox_borderColorIconHover", "default": "#1663ff"},
+      {"label": "Arrow color HOVER",        "name":"checkbox_colorIconFaHover",     "default": "#fff"}
+    ]
+  },
+  "swatch_color": {
+    "key": "swatch_color",
+    "title": "Swatch color",
+    "data": [
+
+      {"label": "Icon width",         "name":"sw_color_widthIcon",         "default": "24px" },
+      {"label": "Icon height",        "name":"sw_color_heightIcon",        "default": "24px" },
+      {"label": "Icon border",        "name":"sw_color_borderIcon",        "default": "1px solid #000" },
+      {"label": "Icon radius",        "name":"sw_color_radiusIcon",        "default": "5px" },
+      {"label": "Icon shadow",        "name":"sw_color_boxShadowIcon",      "default": "0 0 5px rgba(0,0,0,0.3)" },
+
+      {"label": "", "name":"hr", "default": ""},
+
+      {"label": "Color arrow",         "name":"sw_color_colorIconFa",         "default": "#fff" },
+      {"label": "Fontsize arrow",      "name":"sw_color_fontsizeIconFa",         "default": "16px" },
+
+      {"label": "", "name":"hr", "default": ""},
+
+      {"label": "Icon border  ACTIVE",         "name":"sw_color_borderIconActive",         "default": "4px solid #fff" },
+      {"label": "Color arrow ACTIVE",         "name":"sw_color_colorIconFaActive",         "default": "#999" }
+    ]
+  },
+  "swatch_text": {
+    "key": "swatch_text",
+    "title": "Swatch text",
+    "data": [
+      { "label" : "Height button", "name": "sw_text_heightIcon", "default": "40px" },
+      { "label" : "Text color", "name": "sw_text_colorTextlabelCheckbox", "default": "#000" },
+      { "label" : "Font size", "name": "sw_text_fontsizeTextlabelCheckbox", "default": "14px" },
+      { "label" : "Padding", "name": "sw_text_paddingText", "default": "6px 12px" },
+      { "label" : "Border", "name": "sw_text_borderText", "default": "1px solid #d0d0d0" },
+      { "label" : "Border radius", "name": "sw_text_borderRadius", "default": "3px" },
+      { "label" : "Background", "name": "sw_text_bgText", "default": "#fff" },
+
+      { "label": "", "name":"hr", "default": ""},
+      { "label" : "Background color ACTIVE", "name": "sw_text_bgColorActive", "default": "#4caf50" },
+      { "label" : "Border ACTIVE", "name": "sw_text_borderActive", "default": "2px solid #fff" },
+      { "label" : "Text color ACTIVE", "name": "sw_text_colorActive", "default": "#000" }
+    ]
+  },
+  "number_range": {
+    "key": "number_range",
+    "title": "Number",
+    "data": [
+      {"label": "Icon width",        "name":"rn_width_icon",      "default": "20px" },
+      {"label": "Icon height",        "name":"rn_height_icon",      "default": "20px" },
+      {"label": "Icon radius",        "name":"rn_radius_icon",      "default": "5px" },
+      {"label": "Icon background",        "name":"rn_bg_color",      "default": "#4caf50" },
+
+      {"label": "", "name":"hr", "default": ""},
+
+      {"label": "Color value full",         "name":"rn_line_full",         "default": "#8b8b8b" },
+      {"label": "Color value available",         "name":"rn_line_dynamic",         "default": "#0a5f10" }
+    ]
+  }
+}

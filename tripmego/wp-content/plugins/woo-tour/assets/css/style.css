@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+#wootours{ background-color:rgba(253,253,253,.8); padding:15px 30px; border-radius:2px}
+#wootours select, #wootours input[type=text]{ min-width:250px; height:35px}
+#wootours label{ margin-right:15px; display: block; margin-top:10px}
+.mce-ico.mce-i-ex_timeline_bt,
+.icon-grid{ background-image:url(../image/listing.png) !important; background-repeat: initial !important; background-size:100%}
+.wpb_element_wrapper .wpb_vc_param_value{ margin-right:15px;}
+.mce-container[aria-label="Unlimited timeline"] .mce-reset{ max-height:600px; overflow-x: scroll}
+.mce-container[aria-label="Unlimited timeline"]{ max-height:600px; overflow:hidden}
+/*-Settings-*/
+#wootours .subsubsub{font-size:20px; width:100%}
+#wootours .subsubsub li:last-child span{ display:none;}
+#wootours form{
+	background-color:#FFFFFF;
+	padding:10px 30px;
+}
+#wootours form .section-heading{ display:none !important}
+#wootours form .form-table{ border-top: 2px solid #E8E8E8; border-bottom:2px solid #E8E8E8}
+#wootours form .form-table label[for="grid_share_button_em"]{ display:block; margin-bottom:15px;}
+#wootours form .form-table .color-picker{ display:inline-block}
+#wootours select, #wootours input[type=text] {
+    min-width: 250px;
+    height: 35px;
+	margin-right: 15px;
+}
+#wootours .subsubsub{ display:block;}
+#wootours form .form-table textarea{ width:100%;}
+.pac-container.pac-logo:after{ background-image:none !important; display:none;}
+
+#wootours .static-text + table tbody tr{ width:33.333333333%; float:left;}
+
+
+
+.exc_mb_metabox .exc_mb-row{ display:inline-block; width:100%;}
+.exc_mb-row input[type=number]{ max-width:99%}
+

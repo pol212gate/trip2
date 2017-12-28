@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WooThemes//WooCommerce Bookings 1.10.9//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:tripmego
+X-ORIGINAL-URL:https://www.tripmego.asia/
+X-WR-CALDESC:Bookings from tripmego
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20171222
+UID:wc_bookings_7692
+DTSTAMP:20171221T084238
+LOCATION:
+DESCRIPTION:Resource #7060 - Multiple Room (2-3 Traveller)\n\nadult (15 Y+): 1\n\nBooking description:\nทัวร์ท่องเที่ยวญี่ปุ่น Tokyo winter 5D3N พบกับช่วงเวลาแห่งความสุข ทริปนี้เราจะพาคุณไปตะลุยย่าน Askusa  / Ueno  / Shibuya / Shinjuku / Harajuku
+URL;VALUE=URI:https://www.tripmego.asia/my-account/view-order/7693
+SUMMARY:#7692 - Tokyo winter 5D3N ตะลุยไปญี่ปุ่นดินแดนที่ใครๆหลงรัก พร้อมเดินทางวันนี้
+DTSTART;VALUE=DATE:20171222
+END:VEVENT
+END:VCALENDAR

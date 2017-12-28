@@ -1,0 +1,100 @@
+@classWrap: e("");
+
+@checkbox_bgColorIconHover: #00cbff;
+@checkbox_borderColorIconHover: #01adff;
+@checkbox_colorIconFaHover: #fff;
+
+
+@checkbox_bgColorIconActive: #1663ff;
+@checkbox_borderColorIconActive: #1663ff;
+@checkbox_colorIconFaActive: #fff;
+
+@checkbox_colorTextlabelCheckbox: #333;
+@checkbox_fontsizeTextlabelCheckbox: 12px;
+@checkbox_topTextlabelCheckbox: 3px;
+
+@checkbox_widthIcon: 24px;
+@checkbox_heightIcon: 24px;
+@checkbox_bgColorIcon: #fff;
+@checkbox_borderWidthIcon: 2px;
+@checkbox_borderColorIcon: #666;
+@checkbox_radiusIcon: 4px;
+
+@checkbox_colorIconFa: #999;
+@checkbox_fontsizeIconFa: 12px;
+
+//variable//
+
+@{classWrap}.checkboxCustomStyle {
+  position: relative;
+  padding-left: @checkbox_widthIcon + 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  min-height: @checkbox_heightIcon;
+  display: inline-block;
+  margin-right: 10px;
+  .btn-style();
+
+  input {
+    display: none;
+
+    &:checked + .iconFake {
+      background-color: @checkbox_bgColorIconActive;
+      border-color: @checkbox_borderColorIconActive;
+
+      .fa {
+        color: @checkbox_colorIconFaActive;
+      }
+    }
+
+    &:hover + .iconFake {
+      background-color: @checkbox_bgColorIconHover;
+      border-color: @checkbox_borderColorIconHover;
+
+      .fa {
+        color: @checkbox_colorIconFaHover;
+      }
+    }
+  }
+  .textLabel {
+    color: @checkbox_colorTextlabelCheckbox;
+    font-size: @checkbox_fontsizeTextlabelCheckbox;
+    display: inline-block;
+    padding-top: @checkbox_topTextlabelCheckbox;
+  }
+  .iconFake {
+    width: @checkbox_widthIcon;
+    height: @checkbox_heightIcon;
+    background-color: @checkbox_bgColorIcon;
+    border: @checkbox_borderWidthIcon solid @checkbox_borderColorIcon;
+    border-radius: @checkbox_radiusIcon;
+    display: block;
+    position: absolute;
+    top: 5px;
+    line-height: @checkbox_heightIcon - (@checkbox_borderWidthIcon * 2);
+    text-align: center;
+    left:0;
+    -webkit-transition: all 0.15s;
+    -moz-transition: all 0.15s;
+    -ms-transition: all 0.15s;
+    -o-transition: all 0.15s;
+    transition: all 0.15s;
+    .fa {
+      text-align: center;
+      color: @checkbox_colorIconFa;
+      font-size: @checkbox_fontsizeIconFa;
+      height: @checkbox_fontsizeIconFa;
+      position: absolute;
+      top:0;
+      bottom:0;
+      left:0;
+      right:0;
+      margin: auto;
+      -webkit-transition: all 0.15s;
+      -moz-transition: all 0.15s;
+      -ms-transition: all 0.15s;
+      -o-transition: all 0.15s;
+      transition: all 0.15s;
+    }
+  }
+}

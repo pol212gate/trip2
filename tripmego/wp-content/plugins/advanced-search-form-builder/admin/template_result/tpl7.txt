@@ -1,0 +1,36 @@
+<div class="asfb_hotel-01__module">
+    <header class="asfb_hotel-01__header">
+        <a href="<?php the_permalink() ?>" title="<?php the_title() ?>">
+            <?php the_post_thumbnail() ?>
+        </a>
+
+        <div class="asfb_hotel-01__active">
+            <a class="asfb_hotel-01__booking">for rent</a>
+            <span class="asfb_hotel-01__price">$38.000</span>
+        </div>
+
+    </header>
+
+    <div class="asfb_hotel-01__body">
+        <ul class="asfb_hotel-01__navtab">
+            <li>ruxuly</li>
+            <li>Bern</li>
+            <li>Switzerland</li>
+        </ul>
+
+        <div>
+            <div class="asfb_hotel-01__tab">
+                <ul>
+                    <li><i class="fa fa-bed"></i>4</li>
+                    <li><i class="fa fa-bath"></i>2</li>
+                    <li><i class="fa fa-car"></i>1</li>
+                    <li><i class="fa fa-bed"></i>400 sqft</li>
+                </ul>
+            </div>
+        </div>
+
+        <a class="asfb_hotel-01__viewdetail" href="<?php the_permalink() ?>" title="<?php the_title() ?>">
+            view detail<i class="fa fa-angle-double-right"></i>
+        </a>
+    </div>
+</div>

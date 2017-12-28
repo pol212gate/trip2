@@ -1,0 +1,58 @@
+2017-12-14T02:57:39+00:00 CRITICAL Class 'WC_Booking_Form_Date_Picker' not found
+
+2017-12-14T02:57:57+00:00 CRITICAL Class 'WC_Booking_Form_Date_Picker' not found
+
+2017-12-14T02:58:19+00:00 CRITICAL Class 'WC_Booking_Form_Date_Picker' not found
+
+2017-12-14T03:04:51+00:00 CRITICAL Class 'WC_Booking_Form_Date_Picker' not found
+
+2017-12-14T03:13:56+00:00 CRITICAL Class 'WC_Booking_Form_Date_Picker' not found
+
+2017-12-16T09:40:16+00:00 CRITICAL Class 'WC_Booking_Form_Date_Picker' not found
+
+2017-12-21T04:06:50+00:00 CRITICAL Class 'WC_Booking_Form_Date_Picker' not found
+
+2017-12-21T08:22:50+00:00 CRITICAL Class 'WC_Booking_Form_Date_Picker' not found
+
+2017-12-21T08:48:37+00:00 CRITICAL Call to a member function get_checkout_payment_url() on string
+
+2017-12-21T08:49:41+00:00 CRITICAL Call to a member function get_checkout_payment_url() on string
+
+2017-12-21T08:50:24+00:00 CRITICAL Call to a member function get_checkout_payment_url() on string
+
+2017-12-21T09:07:05+00:00 CRITICAL Call to a member function get_checkout_payment_url() on string
+
+2017-12-21T09:08:32+00:00 CRITICAL Call to a member function get_checkout_payment_url() on string
+
+2017-12-21T09:08:52+00:00 CRITICAL Call to a member function get_checkout_payment_url() on string
+
+2017-12-21T09:09:41+00:00 CRITICAL Call to undefined function get_checkout_payment_url()
+
+2017-12-21T09:10:04+00:00 CRITICAL Call to undefined function get_checkout_payment_url()
+
+2017-12-21T09:10:09+00:00 CRITICAL Call to undefined function get_checkout_payment_url()
+
+2017-12-22T04:13:08+00:00 CRITICAL Class 'WC_Booking_Form_Date_Picker' not found
+
+2017-12-22T09:21:29+00:00 CRITICAL Class 'WC_Booking_Form_Month_Picker' not found
+
+2017-12-22T09:25:09+00:00 CRITICAL Class 'WC_Booking_Form_Date_Picker' not found
+
+2017-12-23T02:44:16+00:00 CRITICAL Class 'WC_Booking_Form_Date_Picker' not found
+
+2017-12-23T02:44:34+00:00 CRITICAL Class 'WC_Booking_Form_Date_Picker' not found
+
+2017-12-23T02:44:41+00:00 CRITICAL Class 'WC_Booking_Form_Date_Picker' not found
+
+2017-12-23T02:44:53+00:00 CRITICAL Class 'WC_Booking_Form_Date_Picker' not found
+
+2017-12-23T03:11:13+00:00 CRITICAL Class 'WC_Booking_Form_Date_Picker' not found
+
+2017-12-23T03:11:22+00:00 CRITICAL Class 'WC_Booking_Form_Date_Picker' not found
+
+2017-12-23T03:11:50+00:00 CRITICAL Class 'WC_Booking_Form_Date_Picker' not found
+
+2017-12-23T03:12:04+00:00 CRITICAL Class 'WC_Booking_Form_Date_Picker' not found
+
+2017-12-23T03:21:10+00:00 CRITICAL Class 'WC_Booking_Form_Date_Picker' not found
+

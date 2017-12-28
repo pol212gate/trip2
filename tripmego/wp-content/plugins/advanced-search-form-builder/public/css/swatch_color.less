@@ -1,0 +1,85 @@
+@classWrap: e("");
+
+@sw_color_bgColorIconActive: #4caf50;
+
+@sw_color_colorIconFaActive: #000;
+@sw_color_colorTextlabelCheckbox: #000;
+@sw_color_fontsizeTextlabelCheckbox: 14px;
+@sw_color_topTextlabelCheckbox: 3px;
+
+@sw_color_widthIcon : 40px;
+@sw_color_heightIcon: 40px;
+@sw_color_bgColorIcon: #e0e0e0;
+@sw_color_borderIcon: 1px solid #e0e0e0;
+@sw_color_borderIconActive: 5px solid #fff;
+@sw_color_radiusIcon: 50%;
+
+@sw_color_boxShadowIcon: 0 0 5px rgba(0,0,0,0.3);
+@sw_color_colorIconFa: #000;
+@sw_color_fontsizeIconFa: 16px;
+
+//variable//
+
+@{classWrap}.asfbSwatchColor{
+  position: relative;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  min-height: @sw_color_heightIcon;
+  display: inline-block;
+  .btn-style();
+  input {
+    display: none;
+
+    &:checked + .iconFake {
+      background-color: @sw_color_bgColorIconActive;
+      border: @sw_color_borderIconActive;
+      .fa {
+        display: inline-block;
+        color: @sw_color_colorIconFaActive;
+      }
+    }
+
+  }
+  .textLabel {
+    color: @sw_color_colorTextlabelCheckbox;
+    font-size: @sw_color_fontsizeTextlabelCheckbox;
+    display: inline-block;
+    padding-top: @sw_color_topTextlabelCheckbox;
+  }
+  &.hiddenLabel {
+    .textLabel {
+      display: none;
+    }
+  }
+  .iconFake {
+    width: @sw_color_widthIcon;
+    height: @sw_color_heightIcon;
+    background-color: @sw_color_bgColorIcon;
+    border: @sw_color_borderIcon;
+    border-radius: @sw_color_radiusIcon;
+    display: block;
+    position: relative;
+    top: 0px;
+    text-align: center;
+    left:0;
+    box-shadow: @sw_color_boxShadowIcon;
+    -webkit-transition: all 0.25s;
+    -moz-transition: all 0.25s;
+    -ms-transition: all 0.25s;
+    -o-transition: all 0.25s;
+    transition: all 0.25s;
+    .fa {
+      display: none;
+      color: @sw_color_colorIconFa;
+      font-size: @sw_color_fontsizeIconFa;
+      height:@sw_color_fontsizeIconFa;
+      width: @sw_color_fontsizeIconFa + 6px;
+      position: absolute;
+      top:0;
+      bottom:0;
+      left:0;
+      right:0;
+      margin: auto;
+    }
+  }
+}

@@ -1,0 +1,27 @@
+@classWrap: e("");
+@heightInput: 40px;
+@borderRadius: 3px;
+@borderLeft: 1px solid #d0d00d;
+@borderRight: 1px solid #d0d00d;
+@borderTop: 1px solid #d0d00d;
+@borderBottom: 1px solid #d0d00d;
+//variable//
+
+.asfbTextInput {
+
+  border: none;
+
+  background: #fff;
+  box-shadow: 0 0 10px red;
+  padding-left: 10px;
+  padding-right: 10px;
+  &@{classWrap} {
+    width: 100%;
+    height: @heightInput;
+    border-radius: @borderRadius;
+    border-left: @borderLeft;
+    border-right: @borderRight;
+    border-top: @borderTop;
+    border-bottom: @borderBottom;
+  }
+}

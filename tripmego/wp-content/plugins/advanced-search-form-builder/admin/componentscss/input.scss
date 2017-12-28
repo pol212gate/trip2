@@ -1,0 +1,19 @@
+
+.asfbTextInput {
+
+  border: none;
+
+  background: #fff;
+  box-shadow: 0 0 10px red;
+  padding-left: 10px;
+  padding-right: 10px;
+  &.#{$classWrap} {
+    width: 100%;
+    height: $heightInput;
+    border-radius: $borderRadius;
+    border-left: $borderLeft;
+    border-right: $borderRight;
+    border-top: $borderTop;
+    border-bottom: $borderBottom;
+  }
+}

@@ -1,0 +1,35 @@
+
+<?php $author_id = $post->post_author; ?>
+
+<article class="asfb_post-03__element asfb_post-03__style-02">
+    <header class="asfb_post-03__header">
+        <a href="<?php the_permalink() ?>" title="<?php the_title() ?>">
+            <?php the_post_thumbnail() ?>
+        </a>
+        <div class="asfb_post-03__iconheader"><i class="fa fa-image"></i></div>
+    </header>
+
+    <div class="asfb_post-03__body">
+        <ul class="asfb_post-03__cat">
+            <li><a href="#">Design</a></li>
+        </ul>
+        <h2 class="asfb_post-03__title">
+            <a href="<?php the_permalink() ?>" title="<?php the_title() ?>">
+                <?php the_title() ?>
+            </a>
+        </h2>
+        <div class="asfb_post-03__meta">
+            <span class="asfb_post-03__author">
+                <i class="fa fa-user"></i>
+                Posted by
+                <a href="<?php echo get_author_posts_url($author_id) ?>">
+                    <?php the_author_meta( 'display_name' , $author_id ); ?>
+                </a>
+            </span>
+            <span>
+                <i class="fa fa-calendar"></i>
+                <?php echo get_the_date() ?>
+            </span>
+        </div>
+    </div>
+</article>

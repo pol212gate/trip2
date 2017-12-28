@@ -1,0 +1,101 @@
+@classWrap: e("");
+
+@radio_bgColorIconHover: #00cbff;
+@radio_borderColorIconHover: #01adff;
+@radio_colorIconFaHover: #fff;
+
+
+@radio_bgColorIconActive: #1663ff;
+@radio_borderColorIconActive: #1663ff;
+@radio_colorIconFaActive: #fff;
+
+@radio_colorTextlabelCheckbox: #333;
+@radio_fontsizeTextlabelCheckbox: 12px;
+@radio_topTextlabelCheckbox: 3px;
+
+@radio_widthIcon: 24px;
+@radio_heightIcon: 24px;
+@radio_bgColorIcon: #fff;
+@radio_borderWidthIcon: 2px;
+@radio_borderColorIcon: #666;
+@radio_radiusIcon: 50%;
+
+@radio_colorIconFa: #999;
+@radio_fontsizeIconFa: 12px;
+
+//variable//
+
+@{classWrap}.radioCustomStyle {
+  position: relative;
+  padding-left: @radio_widthIcon + 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  min-height: @radio_heightIcon + 10;
+  display: inline-block;
+  margin-right: 10px;
+  .btn-style();
+
+  input {
+    display: none;
+
+    &:checked + .iconFake {
+      background-color: @radio_bgColorIconActive;
+      border-color: @radio_borderColorIconActive;
+
+      .fa {
+        color: @radio_colorIconFaActive;
+      }
+    }
+
+    &:hover + .iconFake {
+      background-color: @radio_bgColorIconHover;
+      border-color: @radio_borderColorIconHover;
+
+      .fa {
+        color: @radio_colorIconFaHover;
+      }
+    }
+
+  }
+  .textLabel {
+    color: @radio_colorTextlabelCheckbox;
+    font-size: @radio_fontsizeTextlabelCheckbox;
+    display: inline-block;
+    padding-top: @radio_topTextlabelCheckbox;
+  }
+  .iconFake {
+    width: @radio_widthIcon;
+    height: @radio_heightIcon;
+    background-color: @radio_bgColorIcon;
+    border: @radio_borderWidthIcon solid @radio_borderColorIcon;
+    border-radius: @radio_radiusIcon;
+    display: block;
+    position: absolute;
+    top: 5px;
+    line-height: @radio_heightIcon - (@radio_borderWidthIcon * 2);
+    text-align: center;
+    left:0;
+    -webkit-transition: all 0.15s;
+    -moz-transition: all 0.15s;
+    -ms-transition: all 0.15s;
+    -o-transition: all 0.15s;
+    transition: all 0.15s;
+    .fa {
+      text-align: center;
+      color: @radio_colorIconFa;
+      font-size: @radio_fontsizeIconFa;
+      height: @radio_fontsizeIconFa;
+      position: absolute;
+      top:0;
+      bottom:0;
+      left:0;
+      right:0;
+      margin: auto;
+      -webkit-transition: all 0.15s;
+      -moz-transition: all 0.15s;
+      -ms-transition: all 0.15s;
+      -o-transition: all 0.15s;
+      transition: all 0.15s;
+    }
+  }
+}

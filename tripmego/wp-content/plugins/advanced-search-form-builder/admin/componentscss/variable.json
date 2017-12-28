@@ -1,0 +1,34 @@
+{
+  "input" : [
+    {
+      "label" : "Height",
+      "name": "heightInput",
+      "default" : "40px"
+    },
+    {
+      "label" : "borderRadius",
+      "name": "borderRadius",
+      "default" : "3px"
+    },
+    {
+      "label" : "borderLeft",
+      "name": "borderLeft",
+      "default" : "1px solid #d0d0d0"
+    },
+    {
+      "label" : "borderRight",
+      "name": "borderRight",
+      "default" : "1px solid #d0d0d0"
+    },
+    {
+      "label" : "borderTop",
+      "name": "borderTop",
+      "default" : "1px solid #d0d0d0"
+    },
+    {
+      "label" : "borderBottom",
+      "name": "borderBottom",
+      "default" : "1px solid #d0d0d0"
+    }
+  ]
+}

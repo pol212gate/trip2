@@ -1,0 +1,8 @@
+#tab_private_content_icon {
+    display: none;
+}
+
+
+#um_options-tab_private_content_icon span.um-admin-icon-value i {
+    top: 2px;
+}

@@ -1,0 +1,79 @@
+@sl_option_bgcolor: #fff;
+@sl_option_color: #000;
+@sl_option_padding: 6px 12px;
+@sl_option_font: 15px;
+
+@sl_option_bgcolor_hover: #d9d9d9;
+@sl_option_color_hover: #333;
+
+@sl_option_bgcolor_active: #4acf50;
+@sl_option_color_active: #fff;
+
+@sl_btn_bgcolor: #fff;
+@sl_btn_border: 2px solid #d0d0d0;
+@sl_btn_padding: 6px 10px;
+@sl_btn_radius: 20px;
+@sl_btn_color: #000;
+@sl_btn_color_arrow: #d9d9d9;
+
+//variable//
+
+
+.asfbSelectSelect2 {
+  width: 100%;
+  position: relative;
+  display: block;
+}
+//select2-container select2-container--select_mau2 select2-container--open
+@{classWrap} {
+  .select2-container{
+    &--default {
+      &.select2{
+        .select2-selection {
+          background-color: @sl_btn_bgcolor;
+          border: @sl_btn_border;
+          height: auto;
+          padding: @sl_btn_padding;
+          padding-right: 25px;
+          border-radius: @sl_btn_radius;
+          .select2-selection__rendered{
+            color: @sl_btn_color;
+            line-height: normal;
+            padding: 0;
+          }
+          .select2-selection__arrow {
+            margin: auto;
+            right: 5px;
+            bottom: 0;
+            top:0;
+            b {
+              border-color: @sl_btn_color_arrow transparent transparent transparent;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+// Options
+@{classWrap}.select2-dropdown {
+  .select2-results {
+    &__option {
+      padding: @sl_option_padding;
+      background-color: @sl_option_bgcolor;
+      color: @sl_option_color;
+      font-size: @sl_option_font;
+      &--highlighted[aria-selected] {
+        background-color: @sl_option_bgcolor_hover;
+        color: @sl_option_color_hover;
+      }
+
+      &[aria-selected=true] {
+        background-color: @sl_option_bgcolor_active;
+        color: @sl_option_color_active;
+      }
+    }
+  }
+
+}

@@ -1,0 +1,45 @@
+
+<?php $author_id = $post->post_author; ?>
+
+<article class="asfb_post-01__element">
+
+    <header class="asfb_post-01__header">
+        <a href="<?php the_permalink() ?>" title="<?php the_title() ?>">
+            <?php the_post_thumbnail() ?>
+        </a>
+    </header>
+
+    <div class="asfb_post-01__body">
+
+        <div class="asfb_post-01__meta">
+            <a href="#"><i class="fa fa-mail-forward"></i>387 Shares</a>
+            <a href="#"><i class="fa fa-eye"></i>849 View</a>
+        </div>
+
+        <h2 class="asfb_post-01__title">
+            <a href="<?php the_permalink() ?>" title="<?php the_title() ?>">
+                <?php the_title() ?>
+            </a>
+        </h2>
+
+        <div class="divder"></div>
+
+        <div class="asfb_post-01__infobox">
+
+            <div class="asfb_post-01__avatar">
+                <img src="<?php echo get_avatar_url($author_id); ?>" alt="">
+            </div>
+
+            <div class="asfb_post-01__info">
+                <span>
+                    By
+                    <a href="<?php echo get_author_posts_url($author_id) ?>">
+                        <?php the_author_meta( 'display_name' , $author_id ); ?>
+                    </a>
+                </span>
+                <span> <?php echo get_the_date() ?></span>
+            </div>
+
+        </div>
+    </div>
+</article>

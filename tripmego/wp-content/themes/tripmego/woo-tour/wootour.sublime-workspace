@@ -1,0 +1,841 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"PHP",
+				"php"
+			],
+			[
+				"wp_enqueue",
+				"wp_enqueue_scripts"
+			],
+			[
+				"wp_enque",
+				"wp_enqueue_scripts"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"before",
+				"check_before_add"
+			],
+			[
+				"bab",
+				"baby_inc"
+			],
+			[
+				"chil",
+				"children_inc"
+			],
+			[
+				"mysql_e",
+				"mysql_errno"
+			],
+			[
+				"pub",
+				"public"
+			],
+			[
+				"public",
+				"public"
+			],
+			[
+				"connect",
+				"connect_db"
+			],
+			[
+				"MYSQL",
+				"mysql_connect"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"mysql_err",
+				"mysql_error"
+			],
+			[
+				"mysql",
+				"mysql_error"
+			],
+			[
+				"my",
+				"mysql_pconnect"
+			],
+			[
+				"var_",
+				"var_dump"
+			],
+			[
+				"input",
+				"inputusername"
+			],
+			[
+				"session",
+				"session_start"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "content-single-product.php",
+			"settings":
+			{
+				"buffer_size": 2543,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "archive-product.php",
+			"settings":
+			{
+				"buffer_size": 4584,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "content-tour-acco.php",
+			"settings":
+			{
+				"buffer_size": 1482,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "related.php",
+			"settings":
+			{
+				"buffer_size": 2285,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "content-gallery.php",
+			"settings":
+			{
+				"buffer_size": 2197,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "content-email-tour-details.php",
+			"settings":
+			{
+				"buffer_size": 3029,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "variation.php",
+			"settings":
+			{
+				"buffer_size": 2937,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/wordpress/wp-content/plugins/woo-tour/woo-tour.php",
+			"settings":
+			{
+				"buffer_size": 9458,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/woo-tour.php",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "content-tour-meta.php",
+			"settings":
+			{
+				"buffer_size": 5632,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "single-product.php",
+			"settings":
+			{
+				"buffer_size": 2995,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "content-product.php",
+			"settings":
+			{
+				"buffer_size": 2236,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "content-layout-2.php",
+			"settings":
+			{
+				"buffer_size": 1864,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 404.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/woo-tour"
+	],
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/content-book.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/book.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/page.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/tesheed.css",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/plugins/tutsplus-product-archive-short-descriptions.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/plugins/cloudways-product-shor-des.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/single.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/inc/setting.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/footer.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/style.css",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/front-page.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/content-aside.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/content.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/search.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/content-gallery.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/content-quote.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/content-link.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/archive.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/index.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/searchform.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/header.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/sidebar.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/functions.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/home.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/single-book.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/page-product.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/single-post.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/single-product.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/normalize.css",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/js/setup.js",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/customtheme/functions.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/customtheme/style.css",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/css/normalize.css",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/css/tesheed.css",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/css/style.css",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/popular.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/landing.php",
+		"/Users/tesheedk.k/Downloads/tesheeds-first-project-15a2eb.webflow (1)/index.html",
+		"/Applications/MAMP/htdocs/tripmego/test4.php",
+		"/Applications/MAMP/htdocs/tripmego/form_add_trip.php",
+		"/Applications/MAMP/htdocs/tripmego/class_login.php",
+		"/Applications/MAMP/htdocs/tripmego/logout.php",
+		"/Applications/MAMP/htdocs/tripmego/login_page.php",
+		"/Applications/MAMP/htdocs/tripmego/checkregister.php",
+		"/Applications/MAMP/htdocs/tripmego/connectDB3.php",
+		"/Applications/MAMP/htdocs/tripmego/result_select.php",
+		"/Applications/MAMP/htdocs/tripmego/connectDB2.php",
+		"/Applications/MAMP/htdocs/tripmego/select.php",
+		"/Applications/MAMP/htdocs/tripmego/class_connectdb.php",
+		"/Applications/MAMP/htdocs/tripmego/class2.php",
+		"/Applications/MAMP/htdocs/tripmego/learn.php",
+		"/Applications/MAMP/htdocs/tripmego/learnclass.php",
+		"/Applications/MAMP/htdocs/tripmego/inputform.php",
+		"/Applications/MAMP/htdocs/tripmego/display.php",
+		"/Applications/MAMP/htdocs/tripmego/config.php",
+		"/Applications/MAMP/htdocs/tripmego/test1.php",
+		"/Applications/MAMP/htdocs/tripmego/example_code.php",
+		"/Applications/MAMP/htdocs/tripmego/includes/class_mysql.php",
+		"/Applications/MAMP/htdocs/tripmego/pdo_contest.php",
+		"/Applications/MAMP/htdocs/tripmego/pdo_connect.php",
+		"/Applications/MAMP/htdocs/tripmego/check2.php",
+		"/Applications/MAMP/htdocs/tripmego/class_mysql.php",
+		"/Applications/MAMP/htdocs/tripmego/index.php",
+		"/Applications/MAMP/htdocs/tripmego/includes/test2.php",
+		"/Applications/MAMP/htdocs/tripmego/includes/config.php",
+		"/Applications/MAMP/htdocs/tripmego/check.php",
+		"/Applications/MAMP/htdocs/tripmego/check3.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"tour_info"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "content-single-product.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2543,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1538,
+								1538
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 186.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "archive-product.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4584,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "content-tour-acco.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1482,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1035,
+								1035
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "related.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2285,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								905,
+								905
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 530.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "content-gallery.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2197,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "content-email-tour-details.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3029,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "variation.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2937,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1638,
+								1638
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 665.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Applications/MAMP/htdocs/wordpress/wp-content/plugins/woo-tour/woo-tour.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9458,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								746,
+								746
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Applications/MAMP/htdocs/wordpress/wp-content/themes/tripmego/woo-tour.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "content-tour-meta.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5632,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								560,
+								560
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1700.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "single-product.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2995,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1808,
+								1808
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "content-product.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2236,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								768,
+								768
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "content-layout-2.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1864,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								694,
+								694
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "wootour.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 300.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

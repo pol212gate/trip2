@@ -1,0 +1,240 @@
+#wp-admin-bar-gonzales .ab-item {
+    cursor: pointer;
+}
+
+.gonzales-panel {
+    position: fixed;
+    top: 32px;
+    left: 0;
+    bottom: 0;
+    width: auto;
+    height: auto;
+    background: #eee;
+    color: #000;
+    overflow: scroll;
+    padding: 1em 1em 2em 1em;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+    font-size: 14px;
+    line-height: 1.6842;
+    z-index: 1000000;
+}
+
+.gonzales-panel h1,
+.gonzales-panel h2,
+.gonzales-panel h3,
+.gonzales-panel table,
+.gonzales-panel tbody,
+.gonzales-panel tr,
+.gonzales-panel td {
+    border: 0;
+    font-family: inherit;
+    font-size: 100%;
+    font-style: inherit;
+    font-weight: inherit;
+    margin: 0;
+    outline: 0;
+    padding: 0;
+    vertical-align: baseline;
+    color: #444;
+}
+
+.gonzales-panel h1,
+.gonzales-panel h2,
+.gonzales-panel h3 {
+    font-weight: 700;
+    clear: both;
+}
+
+.gonzales-panel *,
+.gonzales-panel *:before,
+.gonzales-panel *:after {
+    -webkit-box-sizing: inherit;
+    -moz-box-sizing: inherit;
+    box-sizing: inherit;
+}
+
+.gonzales-panel table {
+    border-collapse: separate;
+    border-spacing: 0;
+    table-layout: fixed;
+    width: 100%;
+    box-sizing: border-box;
+    border-width: 1px 0 0 1px;
+    margin: 0 0 1.6em;
+    table-layout: fixed; /* Prevents HTML tables from becoming too wide */
+}
+
+.gonzales-panel h1 {
+    font-size: 28px;
+    font-weight: 400;
+}
+
+.gonzales-panel .gonzales-info {
+    margin-bottom: 2em;
+    border: 0;
+}
+
+.gonzales-panel table tr td {
+    font-weight: normal;
+    font-style: inherit;
+    vertical-align: baseline;
+    box-sizing: inherit;
+}
+
+.gonzales-panel .gonzales-info td {
+    vertical-align: top;
+    border: 0;
+}
+
+.gonzales-panel h2 {
+    font-size: 2em;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.gonzales-panel ul {
+    margin: 0;
+    padding: 0;
+    list-style: disc;
+    max-width: 1000px;
+}
+
+.gonzales-panel ul li {
+    margin: 0 0 0 2em;
+    padding: 0;
+}
+
+.gonzales-panel ul li a {
+    text-decoration: underline;
+}
+
+.gonzales-panel #submit-gonzales {
+    font-family: inherit;
+    background: #0085ba;
+    border-color: #0073aa #006799 #006799;
+    -webkit-box-shadow: 0 1px 0 #006799;
+    box-shadow: 0 1px 0 #006799;
+    color: #fff;
+    text-shadow: 0 -1px 1px #006799, 1px 0 1px #006799, 0 1px 1px #006799, -1px 0 1px #006799;
+    display: inline-block;
+    text-decoration: none;
+    text-transform: none;
+    font-size: 13px;
+    line-height: 26px;
+    height: 28px;
+    margin: 0 0  2em 0;
+    padding: 0 10px 1px;
+    cursor: pointer;
+    border-width: 1px;
+    border-style: solid;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    white-space: nowrap;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.gonzales-table {
+    border: none;
+    background: #fff;
+}
+
+.gonzales-table tr:nth-child(even) {
+    background-color: rgba(238, 238, 238, 0.1);
+}
+
+.gonzales-table tr th,
+.gonzales-table tr td {
+    padding: .5em;
+    border-bottom: 1px solid #e5e5e5;
+    border-width: 0 0 1px 0;
+}
+
+.gonzales-table tr .overflow {
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.gonzales-table tr .options div {
+    display: inline-block;
+    margin-right: 1em;
+}
+
+.gonzales-table tr .options .ignore {
+    margin-top: .5em;
+}
+
+.gonzales-table tr td input[type=checkbox] {
+    outline: none;
+    display: inline-block;
+    margin: 0 0.25em 0 0;
+    width: auto;
+}
+
+.gonzales-table tr td span {
+    font-size: 0.8em;
+}
+
+.gonzales-table tr td span > a {
+    color: red;
+}
+
+.gonzales-table tr td h3 {
+    font-size: 1.2em;
+    line-height: 1.3em;
+}
+
+.gonzales-table tr td h3 a {
+    color: #222;
+}
+
+.gonzales-table tr td a {
+    text-decoration: none;
+}
+
+.gonzales-table tr td .gonzales-link {
+    font-size: 0.8em;
+    color: #0073aa;
+    white-space: nowrap;
+}
+
+.gonzales-table tr td .gonzales-comment {
+    display: inline-block;
+}
+
+.gonzales-table tr td label {
+    margin: 0 0 0 .25em;
+    display: inline-block;
+    width: auto;
+}
+
+.gonzales-table tr td .state-1 {
+    background: rgb(73, 207, 84);
+    color: #fff;
+    width: 100%;
+}
+
+.gonzales-table tr td .state-0 {
+    background: rgb(207, 73, 73);
+    color: #fff;
+    width: 100%;
+}
+
+.gonzales-table tr th:nth-child(1),
+.gonzales-table tr td:nth-child(1) {
+    text-align: center;
+    width: 55px;
+}
+
+.gonzales-table tr th:nth-child(2),
+.gonzales-table tr td:nth-child(2) {
+    width: 100px;
+}
+
+.gonzales-table tr th:nth-child(3),
+.gonzales-table tr td:nth-child(3) {
+    width: 40%;
+}

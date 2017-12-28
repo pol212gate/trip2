@@ -1,0 +1,126 @@
+$colorTextlabelCheckbox: #ff00dd;
+$fontsizeTextlabelCheckbox: 14px;
+$topTextlabelCheckbox: 3px;
+
+$colorIconFa: #ddd;
+$colorIconFaActive: pink;
+$fontsizeIconFa: 12px;
+
+$widthIcon: 20px;
+$heightIcon: 20px;
+$borderWidthIcon: 1px;
+$bgColorIcon: #999;
+$borderColorIcon: #333;
+$radiusIcon: 4px;
+
+$bgColorIconActive: red;
+$borderColorIconActive: green;
+@import "checkbox";
+
+$colorTextlabelCheckbox: #ff00dd;
+$fontsizeTextlabelCheckbox: 14px;
+$topTextlabelCheckbox: 3px;
+
+$colorIconFa: #ddd;
+$colorIconFaActive: pink;
+$fontsizeIconFa: 12px;
+
+$widthIcon: 20px;
+$heightIcon: 20px;
+$borderWidthIcon: 1px;
+$bgColorIcon: #fff;
+$borderColorIcon: #ddd;
+$radiusIcon: 50%;
+
+$bgColorIconActive: red;
+$borderColorIconActive: green;
+@import "radio";
+
+//
+$heightSelect: 40px;
+$borderWidthSelect: 1px;
+$borderColorSelect: red;
+$bgColorSelect: black;
+$colorSelect: red;
+
+//
+$paddingOption: 10px 10px;
+
+$backgroundActiveOption: red;
+$colorActiveOption: green;
+
+
+$backgroundHoverOption: yellow;
+$colorHoverOption: red;
+
+$backgroundOption: green;
+$colorOption: black;
+
+$inputFieldHeight: 40px;
+$inputFieldRadius: 3px;
+$inputFieldBg: pink;
+$inputFieldColor: violet;
+$inputFieldBorderColor: black;
+$inputFieldBorderWidth: 2px;
+@import "select";
+
+
+@import "text";
+
+$colorTextlabelCheckbox: #ff00dd;
+$fontsizeTextlabelCheckbox: 14px;
+$topTextlabelCheckbox: 3px;
+
+$colorIconFa: #ddd;
+$colorIconFaActive: pink;
+$fontsizeIconFa: 12px;
+
+$widthIcon: 20px;
+$heightIcon: 20px;
+$borderWidthIcon: 1px;
+$bgColorIcon: #999;
+$borderColorIcon: #fff;
+$radiusIcon: 4px;
+$boxShadowIcon: 0 0 5px #999;
+
+$bgColorIconActive: red;
+$borderColorIconActive: green;
+@import "swatch_color";
+
+$colorTextlabelCheckbox: #ff00dd;
+$fontsizeTextlabelCheckbox: 14px;
+$topTextlabelCheckbox: 3px;
+
+$colorIconFa: #ddd;
+$colorIconFaActive: pink;
+$fontsizeIconFa: 12px;
+
+$borderWidthIcon: 1px;
+$bgColorIcon: #fff;
+$borderColorIcon: #333;
+$radiusIcon: 4px;
+$boxShadowIcon: 0 0 5px #999;
+$fontsizeIcon : 15px;
+
+$bgColorIconActive: red;
+$borderColorIconActive: green;
+@import "swatch_text";
+
+$heightInput: 40px;
+$borderRadius: 10px;
+$borderLeft: 2px solid #333;
+$borderRight: 2px solid #333;
+$borderTop: 2px solid #333;
+$borderBottom: 2px solid #333;
+$boxShadow: 0 0 10px red;
+$bgColorInput: #fff;
+$textColorInput: #000;
+$placeholderColorInput: #777;
+@import "input";
+
+@import "select_basic.scss";
+
+
+body {
+  padding: 50px;
+}

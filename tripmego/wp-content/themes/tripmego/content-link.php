@@ -1,0 +1,1 @@
+<a href="<?PHP echo get_the_content(); ?>"><?PHP the_title(); ?></a>

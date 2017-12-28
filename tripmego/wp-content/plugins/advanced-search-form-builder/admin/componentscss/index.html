@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title></title>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/css/select2.min.css">
+	<link rel="stylesheet" href="fonts/fontawesome/font-awesome.min.css">
+	<link rel="stylesheet" href="style.css">
+
+	<script
+			src="https://code.jquery.com/jquery-2.2.4.min.js"
+			integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+			crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/js/select2.full.min.js"></script>
+	<script>
+		$(document).ready(function(){
+		    $('select.a').select2({
+				'theme' : 'asfb'
+			})
+		})
+	</script>
+</head>
+<body>
+
+	<input type="text" class="asfbTextInput">
+
+	<label for="swatch" class="asfbSwatchLabel hiddenLabel">
+		<input type="checkbox" id="swatch">
+		<span class="iconFake">
+			INOX
+		</span>
+	</label>
+	<label for="swatch" class="asfbSwatchLabel hiddenLabel">
+		<input type="checkbox" id="swatch">
+		<span class="iconFake">
+			PLASTIC
+		</span>
+	</label>
+	<label for="swatch" class="asfbSwatchLabel hiddenLabel">
+		<input type="checkbox" id="swatch">
+		<span class="iconFake">
+			WOOD
+		</span>
+	</label>
+	<hr>
+
+	<label for="swatch" class="asfbSwatchColor hiddenLabel">
+		<input type="checkbox" id="swatch">
+		<span class="iconFake" style="background-color: #0a5f10"><span class="fa fa-check"></span></span>
+		<span class="textLabel">Swatch color</span>
+	</label>
+
+	<label for="swatch2" class="asfbSwatchColor hiddenLabel">
+		<input type="checkbox" id="swatch2">
+		<span class="iconFake" style="background-color: #ff7601"><span class="fa fa-check"></span></span>
+		<span class="textLabel">Swatch color</span>
+	</label>
+
+	<label for="swatch3" class="asfbSwatchColor hiddenLabel">
+		<input type="checkbox" id="swatch3">
+		<span class="iconFake" style="background-color: #01ff3c"><span class="fa fa-check"></span></span>
+		<span class="textLabel">Swatch color</span>
+	</label>
+
+	<label for="swatch4" class="asfbSwatchColor hiddenLabel">
+		<input type="checkbox" id="swatch4">
+		<span class="iconFake" style="background-color: #0089b6"><span class="fa fa-check"></span></span>
+		<span class="textLabel">Swatch color</span>
+	</label>
+	<hr>
+	<label for="checkbox" class="checkboxCustomStyle">
+		<input type="checkbox" id="checkbox">
+		<span class="iconFake"><span class="fa fa-check"></span></span>
+		<span class="textLabel">Checkbox</span>
+	</label>
+
+	<label for="radio" class="radioCustomStyle">
+		<input type="radio" id="radio">
+		<span class="iconFake"><span class="fa fa-check"></span></span>
+		<span class="textLabel">Radio</span>
+	</label>
+
+	<select name="" id="" class="asfbSelect">
+		<option value="">Lorem ipsum.</option>
+		<option value="1">Lorem ipsum dolor sit. </option>
+		<option value="3">Lorem ipsum dolor  </option>
+	</select>
+
+	<select name="" id="" class="a">
+		<option value="">Lorem ipsum.</option>
+		<option value="1">Lorem ipsum dolor sit. </option>
+		<option value="3">Lorem ipsum dolor  </option>
+	</select>
+</body>
+</html>

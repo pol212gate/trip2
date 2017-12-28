@@ -1,0 +1,42 @@
+.#{$classWrap}.checkboxCustomStyle {
+  position: relative;
+  padding-left: $widthIcon + 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  min-height: $heightIcon;
+  display: inline-block;
+  input {
+    display: none;
+    &:checked + .iconFake {
+      background-color: $bgColorIconActive;
+      border-color: $borderColorIconActive;
+
+      .fa {
+        color: $colorIconFaActive;
+      }
+    }
+  }
+  .textLabel {
+    color: $colorTextlabelCheckbox;
+    font-size: $fontsizeTextlabelCheckbox;
+    display: inline-block;
+    padding-top: $topTextlabelCheckbox;
+  }
+  .iconFake {
+    width: $widthIcon;
+    height: $heightIcon;
+    background-color: $bgColorIcon;
+    border: $borderWidthIcon solid $borderColorIcon;
+    border-radius: $radiusIcon;
+    display: block;
+    position: absolute;
+    top: 5px;
+    line-height: $heightIcon - ($borderWidthIcon * 2);
+    text-align: center;
+    left:0;
+    .fa {
+      color: $colorIconFa;
+      font-size: $fontsizeIconFa;
+    }
+  }
+}

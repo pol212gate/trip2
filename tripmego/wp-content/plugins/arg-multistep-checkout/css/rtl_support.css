@@ -1,0 +1,158 @@
+/*RTL Support - Tabs Square*/
+
+.argmc-wrapper .argmc-tab-item {
+    direction: rtl;
+	float: right;
+	border-left: none;
+	border-right: 1px solid #dcdcdc;
+}
+
+.argmc-wrapper .argmc-tab-item:first-child {
+	border-right: none;
+}
+
+.argmc-wrapper .argmc-tab-text {
+	unicode-bidi: bidi-override;
+}
+
+.argmc-wrapper .tab-completed-icon {
+    margin-right: 0;
+	margin-left: 4px;
+}
+
+
+/*RTL Support - Footer Butons and Text*/
+
+.argmc-wrapper .argmc-nav-text,
+.argmc-wrapper .argmc-nav-buttons .button {
+	direction: rtl;
+    unicode-bidi: bidi-override;
+}
+
+
+
+@media screen and (min-width: 767px) {
+	
+	.argmc-wrapper .argmc-nav {
+		display: table;
+		width: 100%;
+	}
+
+	.argmc-wrapper .argmc-nav-text,
+	.argmc-wrapper .argmc-nav-buttons {
+		float: right;
+	}
+	
+	.argmc-wrapper .argmc-nav-text {
+		text-align: right;
+		padding: 17px 0 20px 10%;
+		width: 50%;
+	}
+	
+	.argmc-wrapper .argmc-nav-buttons {
+		display: flex;
+		flex-direction: row-reverse;
+		justify-content: flex-end; /*Please replace flex-end with center if you decide to not use footer text and want to align centered the footer buttons*/
+		width: 50%;  /*Please change the 40% value to 100% if you decide to not use footer text*/
+	}
+	
+	.argmc-wrapper .argmc-nav-buttons .button {
+		margin-right: 5px !important;
+	}
+}
+
+
+@media screen and (min-width: 1200px) {
+	
+	.argmc-wrapper .argmc-tab-item-outer {
+		padding: 31px 27px 26px 5px;
+		text-align: right;
+	}
+}
+
+
+
+
+
+/*RTL Support - Tabs Progress Bar*/
+
+.argmc-wrapper .argmc-tab-item {
+    direction: rtl;
+	float: right;
+}
+
+.argmc-wrapper .argmc-tab-item:first-child {
+	border-right: none;
+}
+
+.argmc-wrapper .argmc-tab-text {
+	unicode-bidi: bidi-override;
+}
+
+.argmc-tab-item:first-child .argmc-tab-text {
+    position: absolute;
+    right: 10px;
+}
+
+.argmc-tab-item:last-child .argmc-tab-text {
+    left: 10px;
+    right: auto;
+}
+
+.argmc-wrapper .tab-completed-icon {
+    margin-right: 0;
+	margin-left: 4px;
+}
+
+
+/*RTL Support - Footer Butons and Text*/
+
+.argmc-wrapper .argmc-nav-text,
+.argmc-wrapper .argmc-nav-buttons .button {
+	direction: rtl;
+    unicode-bidi: bidi-override;
+}
+
+
+
+@media screen and (min-width: 767px) {
+	
+	.argmc-tab-item:first-child .argmc-tab-text,
+	.argmc-tab-item:last-child .argmc-tab-text {
+		position: relative;
+		right: auto;
+		left: auto;
+	}
+	
+	.argmc-wrapper .argmc-nav {
+		display: table;
+		width: 100%;
+	}
+
+	.argmc-wrapper .argmc-nav-text,
+	.argmc-wrapper .argmc-nav-buttons {
+		float: right;
+	}
+	
+	.argmc-wrapper .argmc-nav-text {
+		text-align: right;
+		padding: 17px 0 20px 10%;
+		width: 50%;
+	}
+	
+	.argmc-wrapper .argmc-nav-buttons {
+		display: flex;
+		flex-direction: row-reverse;
+		justify-content: flex-end; /*Please replace flex-end with center if you decide to not use footer text and want to align centered the footer buttons*/
+		width: 50%;  /*Please change the 40% value to 100% if you decide to not use footer text*/
+	}
+	
+	.argmc-wrapper .argmc-nav-buttons .button {
+		margin-right: 5px !important;
+	}
+}
+
+
+
+
+

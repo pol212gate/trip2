@@ -1,0 +1,388 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+
+ .clearfix {
+ 	overflow: hidden;
+ 	width: 100%;
+ 	clear: both;
+ }
+
+ .asfbWrapResult .asfb_row{
+	 overflow: hidden;
+	 float: none;
+	 clear: both;
+	 margin-left:-15px;
+	 margin-right:-15px;
+ }
+ .asfbWrapResult .asfb_itemCol{
+	 float: left;
+	 width: 33.33%;
+	 padding: 15px;
+ }
+
+@media (min-width: 961px) {
+	.layoutDesk_1 .asfb_itemCol{
+		width: 100%;
+		float: none;
+	}
+	.layoutDesk_2 .asfb_itemCol{
+		width: 50%;
+		float: left;
+	}
+	.layoutDesk_2 .asfb_itemCol:nth-child(2n + 1){  clear: both; }
+	.layoutDesk_3 .asfb_itemCol{
+		width: 33.333%;
+		float: left;
+	}
+	.layoutDesk_4 .asfb_itemCol{
+		width: 25%;
+		float: left;
+	}
+	.layoutDesk_5 .asfb_itemCol{
+		width: 20%;
+		float: left;
+	}
+	.layoutDesk_6 .asfb_itemCol{
+		width: 16.666666%;
+		float: left;
+	}
+
+	.layoutDesk_2 .asfb_itemCol:nth-child(2n + 1){  clear: both; }
+	.layoutDesk_3 .asfb_itemCol:nth-child(3n + 1){  clear: both; }
+	.layoutDesk_4 .asfb_itemCol:nth-child(4n + 1){  clear: both; }
+	.layoutDesk_5 .asfb_itemCol:nth-child(5n + 1){  clear: both; }
+	.layoutDesk_6 .asfb_itemCol:nth-child(6n + 1){  clear: both; }
+}
+@media (min-width: 461px) and (max-width: 960px) {
+	.layoutTablet_1 .asfb_itemCol{
+		width: 100%;
+		float: none;
+	}
+	.layoutTablet_2 .asfb_itemCol{
+		width: 50%;
+		float: left;
+	}
+	.layoutTablet_3 .asfb_itemCol{
+		width: 33.333%;
+		float: left;
+	}
+	.layoutTablet_4 .asfb_itemCol{
+		width: 25%;
+		float: left;
+	}
+	.layoutTablet_5 .asfb_itemCol{
+		width: 20%;
+		float: left;
+	}
+	.layoutTablet_6 .asfb_itemCol{
+		width: 16.666666%;
+		float: left;
+	}
+
+	.layoutTablet_2 .asfb_itemCol:nth-child(2n + 1){  clear: both; }
+	.layoutTablet_3 .asfb_itemCol:nth-child(3n + 1){  clear: both; }
+	.layoutTablet_4 .asfb_itemCol:nth-child(4n + 1){  clear: both; }
+	.layoutTablet_5 .asfb_itemCol:nth-child(5n + 1){  clear: both; }
+	.layoutTablet_6 .asfb_itemCol:nth-child(6n + 1){  clear: both; }
+}
+@media (max-width: 480px) {
+	.layoutMobile_1 .asfb_itemCol{
+		width: 100%;
+		float: none;
+	}
+	.layoutMobile_2 .asfb_itemCol{
+		width: 50%;
+		float: left;
+	}
+	.layoutMobile_3 .asfb_itemCol{
+		width: 33.333%;
+		float: left;
+	}
+	.layoutMobile_4 .asfb_itemCol{
+		width: 25%;
+		float: left;
+	}
+	.layoutMobile_5 .asfb_itemCol{
+		width: 20%;
+		float: left;
+	}
+	.layoutMobile_6 .asfb_itemCol{
+		width: 16.666666%;
+		float: left;
+	}
+
+	.layoutMobile_2 .asfb_itemCol:nth-child(2n + 1){  clear: both; }
+	.layoutMobile_3 .asfb_itemCol:nth-child(3n + 1){  clear: both; }
+	.layoutMobile_4 .asfb_itemCol:nth-child(4n + 1){  clear: both; }
+	.layoutMobile_5 .asfb_itemCol:nth-child(5n + 1){  clear: both; }
+	.layoutMobile_6 .asfb_itemCol:nth-child(6n + 1){  clear: both; }
+}
+//
+//._mdSize {
+//	.layoutDesk_1 .asfb_itemCol{
+//		width: 100%;
+//		float: none;
+//	}
+//	.layoutDesk_2 .asfb_itemCol{
+//		width: 50%;
+//		float: left;
+//	}
+//	.layoutDesk_2 .asfb_itemCol:nth-child(2n + 1){  clear: both; }
+//	.layoutDesk_3 .asfb_itemCol{
+//		width: 33.333%;
+//		float: left;
+//	}
+//	.layoutDesk_4 .asfb_itemCol{
+//		width: 25%;
+//		float: left;
+//	}
+//	.layoutDesk_5 .asfb_itemCol{
+//		width: 20%;
+//		float: left;
+//	}
+//	.layoutDesk_6 .asfb_itemCol{
+//		width: 16.666666%;
+//		float: left;
+//	}
+//
+//	.layoutDesk_2 .asfb_itemCol:nth-child(2n + 1){  clear: both; }
+//	.layoutDesk_3 .asfb_itemCol:nth-child(3n + 1){  clear: both; }
+//	.layoutDesk_4 .asfb_itemCol:nth-child(4n + 1){  clear: both; }
+//	.layoutDesk_5 .asfb_itemCol:nth-child(5n + 1){  clear: both; }
+//	.layoutDesk_6 .asfb_itemCol:nth-child(6n + 1){  clear: both; }
+//}
+//._smSize {
+//	.layoutTablet_1 .asfb_itemCol{
+//		width: 100%;
+//		float: none;
+//	}
+//	.layoutTablet_2 .asfb_itemCol{
+//		width: 50%;
+//		float: left;
+//	}
+//	.layoutTablet_3 .asfb_itemCol{
+//		width: 33.333%;
+//		float: left;
+//	}
+//	.layoutTablet_4 .asfb_itemCol{
+//		width: 25%;
+//		float: left;
+//	}
+//	.layoutTablet_5 .asfb_itemCol{
+//		width: 20%;
+//		float: left;
+//	}
+//	.layoutTablet_6 .asfb_itemCol{
+//		width: 16.666666%;
+//		float: left;
+//	}
+//
+//	.layoutTablet_2 .asfb_itemCol:nth-child(2n + 1){  clear: both; }
+//	.layoutTablet_3 .asfb_itemCol:nth-child(3n + 1){  clear: both; }
+//	.layoutTablet_4 .asfb_itemCol:nth-child(4n + 1){  clear: both; }
+//	.layoutTablet_5 .asfb_itemCol:nth-child(5n + 1){  clear: both; }
+//	.layoutTablet_6 .asfb_itemCol:nth-child(6n + 1){  clear: both; }
+//}
+//._xsSize {
+//	.layoutMobile_1 .asfb_itemCol{
+//		width: 100%;
+//		float: none;
+//	}
+//	.layoutMobile_2 .asfb_itemCol{
+//		width: 50%;
+//		float: left;
+//	}
+//	.layoutMobile_3 .asfb_itemCol{
+//		width: 33.333%;
+//		float: left;
+//	}
+//	.layoutMobile_4 .asfb_itemCol{
+//		width: 25%;
+//		float: left;
+//	}
+//	.layoutMobile_5 .asfb_itemCol{
+//		width: 20%;
+//		float: left;
+//	}
+//	.layoutMobile_6 .asfb_itemCol{
+//		width: 16.666666%;
+//		float: left;
+//	}
+//
+//	.layoutMobile_2 .asfb_itemCol:nth-child(2n + 1){  clear: both; }
+//	.layoutMobile_3 .asfb_itemCol:nth-child(3n + 1){  clear: both; }
+//	.layoutMobile_4 .asfb_itemCol:nth-child(4n + 1){  clear: both; }
+//	.layoutMobile_5 .asfb_itemCol:nth-child(5n + 1){  clear: both; }
+//	.layoutMobile_6 .asfb_itemCol:nth-child(6n + 1){  clear: both; }
+//}
+
+
+.asfbWrapResult ul.products .asfb_itemCol li.product {
+	width: 100%;
+	float: none;
+	display: block;
+	margin: auto;
+}
+
+.asfbFormWrapper {
+	padding: 15px;
+	background-color: #f5f5f5;
+	border: 1px solid #e0e0e0;
+	border-radius: 4px;
+}
+.asfbFormWrapper .asfbSubmitForm{
+	background: #0a5f10;
+	color: #fff;
+	padding: 8px 20px;
+	border-radius:4px;
+}
+.asfbFormWrapper .asfb_row{
+	margin-left: -15px;
+	margin-right: -15px;
+	overflow: hidden;
+	clear: both;
+}
+.asfbFormWrapper .asfb_itemCol{
+	padding-left:15px;
+	padding-right: 15px;
+	padding-bottom: 15px;
+}
+
+.asfbInputSearch {
+	margin-bottom: 15px;
+
+	input.asfbInput {
+		position: relative;
+		z-index: 3;
+		height: 50px;
+		border: 2px solid #dedede;
+		border-radius: 4px;
+		width: 100%;
+		background: #fff;
+		padding-left: 15px;
+		padding-right: 15px;
+		box-shadow: none;
+		text-transform: lowercase;
+
+		&.searching {
+			background-image: url(../img/snake_loading.gif);
+			background-repeat: no-repeat;
+			background-position: 98% center;
+		}
+	}
+
+	input.asfbAt {
+		position: absolute;
+		top: 0;
+		left: 0;
+		right: 0;
+		color: #9d9d9d;
+		text-transform: lowercase;
+	}
+}
+
+@import "swatch_color";
+@import "swatch_text";
+@import "radio";
+@import "checkbox";
+@import "SearchResult";
+@import "select";
+@import "number_range";
+
+.asfbNumberRange {
+	padding-right: 25px;
+}
+
+.asfbSuggestion {
+	margin-bottom: 15px;
+}
+.asfbWrapResultAjax {
+	margin-left: -10px;
+	margin-right: -10px;
+	overflow: hidden;
+	.asfbItemAjax {
+		width: 20%;
+		float: left;
+		padding: 0 10px;
+		margin-bottom: 10px;
+		&:nth-child(5n + 1) {
+			clear: both;
+		}
+		@media(max-width: 960px) {
+			width: 33.333%;
+			&:nth-child(3n + 1) {
+				clear: both;
+			}
+		}
+		.asfbWrapImage {
+			position: relative;
+			padding-top: 100%;
+			display: block;
+			overflow: hidden;
+			border-radius: 3px;
+			img{
+				margin: auto;
+				top:0;
+				bottom:0;
+				position: absolute;
+				left:0;
+				right:0;
+			}
+		}
+		.asfbTitle {
+			margin-top: 10px;
+			line-height: 18px;
+			font-size: 14px;
+			max-height: 14px * (18px / 14px) * 2;
+			display: inline-block;
+			overflow: hidden;
+		}
+	}
+}
+
+.asfbTitleSuggestion.binded {
+	background: #f0f0f0;
+	padding-left: 5px;
+	padding-right: 5px;
+	a{
+		color: #000;
+	}
+}
+
+.asfbWrapResultAjax {
+	min-height: 40px;
+	&.loading {
+		background-image: url("../img/snake_loading.gif");
+		background-repeat: no-repeat;
+		background-position: 20px 10px;
+		background-color: #fff;
+	}
+}
+
+.asfbTextinput {
+	.asfbTextbox{
+		background: #fff;
+		width: 100%;
+		border-radius: 4px;
+		border: 1px solid #d0d0d0;
+		height: 45px;
+	}
+}
+
+.btn-style {
+	white-space: nowrap;
+	vertical-align: middle;
+	-ms-touch-action: manipulation;
+	touch-action: manipulation;
+	cursor: pointer;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+
+@import "globalForm";
+@import "pagination";

@@ -1,0 +1,26 @@
+@rn_width_icon: 20px;
+@rn_height_icon: 20px;
+@rn_radius_icon: 5px;
+@rn_bg_color: #4caf50;
+
+@rn_line_full: #8b8b8b;
+@rn_line_dynamic:#0a5f10;
+
+//variable//
+
+.asfbNumberRange {
+  .ui-slider-handle {
+    top: 50%;
+    width: @rn_width_icon;
+    height: @rn_height_icon;
+    border-radius: @rn_radius_icon;
+    background-color: @rn_bg_color;
+  }
+
+  .ui-slider-range {
+    background-color: @rn_line_dynamic;
+  }
+  .slider-range {
+    background-color: @rn_line_full;
+  }
+}

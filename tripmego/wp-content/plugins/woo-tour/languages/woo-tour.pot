@@ -1,0 +1,1638 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooEvents\n"
+"POT-Creation-Date: 2017-04-28 08:26+0700\n"
+"PO-Revision-Date: 2017-04-28 08:26+0700\n"
+"Last-Translator: \n"
+"Language-Team: Exthemes\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: woo-tour.php:26
+msgid ""
+"WooCommerce is Required to wootours plugin work, please install or activate "
+"WooCommerce plugin"
+msgstr ""
+
+#: css/custom.css.php:245
+msgid "Product"
+msgstr ""
+
+#: css/custom.css.php:249 shortcode/tour-table.php:43
+msgid "Price"
+msgstr ""
+
+#: css/custom.css.php:253 inc/admin/class-tour-meta.php:36
+msgid "Quantity"
+msgstr ""
+
+#: css/custom.css.php:257
+msgid "Subtotal"
+msgstr ""
+
+#: css/custom.css.php:261
+msgid "Total"
+msgstr ""
+
+#: inc/class-checkout-hook.php:47
+#, php-format
+msgid ""
+"Sorry, \"%s\" is not enought stock. Please edit your quantity or date of "
+"tour. We apologise for any inconvenience caused."
+msgstr ""
+
+#: inc/class-checkout-hook.php:61 inc/class-checkout-hook.php:64
+#: inc/class-checkout-hook.php:68 inc/class-checkout-hook.php:71
+#: inc/class-checkout-hook.php:74 inc/class-checkout-hook.php:77
+#: inc/class-checkout-hook.php:80 inc/class-checkout-hook.php:83
+#: inc/class-checkout-hook.php:87
+msgid "Please fill info Passenger"
+msgstr ""
+
+#: inc/class-checkout-hook.php:104 inc/class-checkout-hook.php:282
+#: inc/class-checkout-hook.php:307
+msgid "Attendees info"
+msgstr ""
+
+#: inc/class-checkout-hook.php:106
+msgid "First Name: "
+msgstr ""
+
+#: inc/class-checkout-hook.php:107
+msgid "Last Name: "
+msgstr ""
+
+#: inc/class-checkout-hook.php:108 inc/class-checkout-hook.php:309
+#: inc/functions.php:620
+msgid "Email: "
+msgstr ""
+
+#: inc/class-checkout-hook.php:144
+msgid "Passenger"
+msgstr ""
+
+#: inc/class-checkout-hook.php:152
+msgid "First Name"
+msgstr ""
+
+#: inc/class-checkout-hook.php:163
+msgid "Last Name"
+msgstr ""
+
+#: inc/class-checkout-hook.php:172
+msgid "Email"
+msgstr ""
+
+#: inc/class-checkout-hook.php:180
+msgid "Date of birth"
+msgstr ""
+
+#: inc/class-checkout-hook.php:213
+msgid "Gender"
+msgstr ""
+
+#: inc/class-checkout-hook.php:217
+msgid "Select"
+msgstr ""
+
+#: inc/class-checkout-hook.php:218
+msgid "Male"
+msgstr ""
+
+#: inc/class-checkout-hook.php:219
+msgid "Female"
+msgstr ""
+
+#: inc/class-checkout-hook.php:220
+msgid "Other"
+msgstr ""
+
+#: inc/class-checkout-hook.php:283
+msgid " Name: "
+msgstr ""
+
+#: inc/class-checkout-hook.php:284
+msgid " Email: "
+msgstr ""
+
+#: inc/class-checkout-hook.php:308 inc/functions.php:619
+msgid "Name: "
+msgstr ""
+
+#: inc/class-checkout-hook.php:310 inc/functions.php:621
+msgid "Date of birth: "
+msgstr ""
+
+#: inc/class-checkout-hook.php:311 inc/functions.php:622
+msgid "Gender: "
+msgstr ""
+
+#: inc/class-woo-booking.php:50
+msgid "Deposit"
+msgstr ""
+
+#: inc/class-woo-booking.php:51
+msgid "Remaining"
+msgstr ""
+
+#: inc/class-woo-booking.php:74
+msgid "Please select Departure"
+msgstr ""
+
+#: inc/class-woo-booking.php:99
+msgid "Sorry there is not enough stock"
+msgstr ""
+
+#: inc/class-woo-booking.php:124
+#, php-format
+msgid ""
+"You cannot add that amount to the cart - we have %d in stock and you already "
+"have %d in your cart."
+msgstr ""
+
+#: inc/class-woo-booking.php:309 templates/content-email-tour-details.php:19
+#: templates/content-email-tour-details.php:35
+msgid "Departure"
+msgstr ""
+
+#: inc/class-woo-booking.php:319
+msgid "Adult"
+msgstr ""
+
+#: inc/class-woo-booking.php:363
+msgid "Children"
+msgstr ""
+
+#: inc/class-woo-booking.php:372
+msgid "Infant"
+msgstr ""
+
+#: inc/class-woo-booking.php:464
+msgid "January"
+msgstr ""
+
+#: inc/class-woo-booking.php:465
+msgid "February"
+msgstr ""
+
+#: inc/class-woo-booking.php:466
+msgid "March"
+msgstr ""
+
+#: inc/class-woo-booking.php:467
+msgid "April"
+msgstr ""
+
+#: inc/class-woo-booking.php:468
+msgid "May"
+msgstr ""
+
+#: inc/class-woo-booking.php:469
+msgid "June"
+msgstr ""
+
+#: inc/class-woo-booking.php:470
+msgid "July"
+msgstr ""
+
+#: inc/class-woo-booking.php:471
+msgid "August"
+msgstr ""
+
+#: inc/class-woo-booking.php:472
+msgid "September"
+msgstr ""
+
+#: inc/class-woo-booking.php:473
+msgid "October"
+msgstr ""
+
+#: inc/class-woo-booking.php:474
+msgid "November"
+msgstr ""
+
+#: inc/class-woo-booking.php:475
+msgid "December"
+msgstr ""
+
+#: inc/class-woo-booking.php:478
+msgid "Sun"
+msgstr ""
+
+#: inc/class-woo-booking.php:479
+msgid "Mon"
+msgstr ""
+
+#: inc/class-woo-booking.php:480
+msgid "Tue"
+msgstr ""
+
+#: inc/class-woo-booking.php:481
+msgid "Wed"
+msgstr ""
+
+#: inc/class-woo-booking.php:482
+msgid "Thu"
+msgstr ""
+
+#: inc/class-woo-booking.php:483
+msgid "Fri"
+msgstr ""
+
+#: inc/class-woo-booking.php:484
+msgid "Sat"
+msgstr ""
+
+#: inc/class-woo-booking.php:490 inc/class-woo-booking.php:592
+msgid "Departure: "
+msgstr ""
+
+#: inc/class-woo-booking.php:531 inc/class-woo-booking.php:598
+msgid "Adult: "
+msgstr ""
+
+#: inc/class-woo-booking.php:541 inc/class-woo-booking.php:605
+msgid "Children: "
+msgstr ""
+
+#: inc/class-woo-booking.php:546 inc/class-woo-booking.php:612
+msgid "Infant: "
+msgstr ""
+
+#: inc/class-woo-hook-metaonly.php:22 inc/class-woo-hook.php:60
+msgid "This tour has expired"
+msgstr ""
+
+#: inc/class-woo-hook-metaonly.php:34 inc/class-woo-hook.php:87
+msgid "Add To Cart"
+msgstr ""
+
+#: inc/class-woo-hook-metaonly.php:36 inc/class-woo-hook.php:89
+#: templates/content-layout-2.php:33
+msgid "Book Now"
+msgstr ""
+
+#: inc/class-woo-hook.php:76
+msgid "Related Tours"
+msgstr ""
+
+#: inc/class-woo-hook.php:107
+msgid "WooTour"
+msgstr ""
+
+#: inc/class-woo-hook.php:109
+msgid "Sidebar for all pages of WooTours."
+msgstr ""
+
+#: inc/class-woo-hook.php:126 shortcode/content/content-table.php:66
+msgid "View Details"
+msgstr ""
+
+#: inc/functions.php:331
+msgid "Share on Facebook"
+msgstr ""
+
+#: inc/functions.php:338
+msgid "Share on Twitter"
+msgstr ""
+
+#: inc/functions.php:345
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: inc/functions.php:352
+msgid "Share on Tumblr"
+msgstr ""
+
+#: inc/functions.php:359
+msgid "Share on Google Plus"
+msgstr ""
+
+#: inc/functions.php:366
+msgid "Pin this"
+msgstr ""
+
+#: inc/functions.php:373
+msgid "Share on VK"
+msgstr ""
+
+#: inc/functions.php:380
+msgid "Email this"
+msgstr ""
+
+#: inc/functions.php:495
+msgid "From  "
+msgstr ""
+
+#: inc/functions.php:584
+msgid "Sale!"
+msgstr ""
+
+#: inc/functions.php:603
+msgid "Location: "
+msgstr ""
+
+#: inc/functions.php:618
+msgid "User "
+msgstr ""
+
+#: inc/functions.php:649 inc/functions.php:656
+msgid "Available"
+msgstr ""
+
+#: inc/functions.php:651
+msgid "Sorry, No ticket available at this date"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:37
+#: inc/admin/class-plugin-settings.php:61
+#: inc/admin/class-plugin-settings.php:687
+msgid "WooTours Settings"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:37
+msgid "WooTours"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:71
+msgid "General"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:76
+msgid "Main Purpose"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:77
+msgid ""
+"Select \"Custom\" to use main layout as woocommerce but you can choose "
+"product as tour in each product, Select \"Only use metadata\" to use your "
+"theme style and you can choose product as tour in each product"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:80
+#: inc/admin/class-plugin-settings.php:444 inc/admin/class-tour-meta.php:67
+#: inc/admin/class-tour-meta.php:92
+msgid "Tour"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:81
+msgid "Custom"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:82
+msgid "Only use metadata"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:88
+msgid "Main color"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:89
+msgid "Choose main color of Wootours"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:96
+msgid "Main Font Family"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:97
+#: inc/admin/class-plugin-settings.php:113
+msgid ""
+"Enter Google font-family name here. For example, if you choose \"Source Sans "
+"Pro\" Google Font, enter Source Sans Pro"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:104
+msgid "Main Font Size"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:105
+msgid "Enter size of font, Ex: 13px"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:112
+msgid "Heading Font Family"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:120
+msgid "Heading Font Size"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:121
+msgid "Enter size of font, Ex: 20px"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:128 inc/admin/class-tour-meta.php:64
+msgid "Sidebar"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:129
+msgid "Select hide to use sidebar of theme"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:132 inc/admin/class-tour-meta.php:64
+msgid "Right"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:133 inc/admin/class-tour-meta.php:64
+msgid "Left"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:134
+#: inc/admin/class-plugin-settings.php:274
+#: inc/admin/class-plugin-settings.php:285
+#: inc/admin/class-plugin-settings.php:350
+#: inc/admin/class-plugin-settings.php:361
+#: inc/admin/class-plugin-settings.php:466
+#: inc/admin/class-plugin-settings.php:502
+#: inc/admin/class-plugin-settings.php:513
+msgid "Hide"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:141
+msgid "Calendar Language"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:142
+msgid "Select language of Calendar"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:145
+msgid "en"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:146
+msgid "ar"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:147
+msgid "bg_BG"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:148
+msgid "bs_BA"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:149
+msgid "ca_ES"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:150
+msgid "cs_CZ"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:151
+msgid "da_DK"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:152
+msgid "de_DE"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:153
+msgid "el_GR"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:154
+msgid "es_ES"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:155
+msgid "et_EE"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:156
+msgid "eu_ES"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:157
+msgid "fa_IR"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:158
+msgid "fi_FI"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:159
+msgid "fr_FR"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:160
+msgid "ge_GEO"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:161
+msgid "gl_ES"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:162
+msgid "he_IL"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:163
+msgid "hi_IN"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:164
+msgid "hr_HR"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:165
+msgid "hu_HU"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:166
+msgid "id_ID"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:167
+msgid "is_IS"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:168
+msgid "it_IT"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:169
+msgid "ja_JP"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:170
+msgid "ko_KR"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:171
+msgid "lt_LT"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:172
+msgid "lv_LV"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:173
+msgid "nb_NO"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:174
+msgid "ne_NP"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:175
+msgid "nl_NL"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:176
+msgid "no_NO"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:177
+msgid "pl_PL"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:178
+msgid "pt_BR"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:179
+msgid "pt_PT"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:180
+msgid "ro_RO"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:181
+msgid "ru_RU"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:182
+msgid "sk_SK"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:183
+msgid "sl_SI"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:184
+msgid "sv_SE"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:185
+msgid "th_TH"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:186
+msgid "tr_TR"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:187
+msgid "uk_UA"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:188
+msgid "vi_VN"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:189
+msgid "zh_CN"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:190
+msgid "zh_TW"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:196
+msgid "The day that each week begins"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:200 inc/admin/class-tour-meta.php:25
+msgid "Sunday"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:201 inc/admin/class-tour-meta.php:19
+msgid "Monday"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:207
+msgid "Listing default view"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:211
+msgid "List"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:212
+msgid "Table"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:218
+msgid "Enable redirect to Checkout page"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:219
+msgid "Redirect to the Checkout page after successful addition"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:222
+#: inc/admin/class-plugin-settings.php:314
+#: inc/admin/class-plugin-settings.php:422 shortcode/tour-carousel.php:166
+msgid "Off"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:223
+#: inc/admin/class-plugin-settings.php:315 shortcode/tour-carousel.php:167
+msgid "On"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:229
+msgid "Disable multiple attendees info"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:233
+#: inc/admin/class-plugin-settings.php:303
+#: inc/admin/class-plugin-settings.php:523 shortcode/tour-search.php:215
+#: shortcode/tour-search.php:244
+msgid "No"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:234
+#: inc/admin/class-plugin-settings.php:304
+#: inc/admin/class-plugin-settings.php:524 shortcode/tour-search.php:216
+#: shortcode/tour-search.php:243
+msgid "Yes"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:241
+#: inc/admin/class-plugin-settings.php:434
+msgid "Single Tour"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:246 inc/admin/class-tour-meta.php:63
+msgid "Layout"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:247
+#: inc/admin/class-plugin-settings.php:440
+msgid "Select default layout of single event"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:250
+#: inc/admin/class-plugin-settings.php:420 inc/admin/class-tour-meta.php:63
+#: inc/admin/class-tour-meta.php:64 inc/admin/class-tour-meta.php:92
+#: shortcode/tour-table.php:128
+msgid "Default"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:251 inc/admin/class-tour-meta.php:63
+msgid "Full Width"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:252 inc/admin/class-tour-meta.php:63
+msgid "Full Width Flat"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:258
+msgid "Meta position ( only work with layout is default)"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:259
+#: inc/admin/class-plugin-settings.php:451
+msgid "Select position of tour meta"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:262
+#: inc/admin/class-plugin-settings.php:454
+msgid "Below Title"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:263
+#: inc/admin/class-plugin-settings.php:455
+msgid "Above Accompanied service info"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:269
+#: inc/admin/class-plugin-settings.php:461
+msgid "Show Social Share"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:270
+#: inc/admin/class-plugin-settings.php:462
+msgid "Show/hide Social Share section"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:273
+#: inc/admin/class-plugin-settings.php:284
+#: inc/admin/class-plugin-settings.php:349
+#: inc/admin/class-plugin-settings.php:360
+#: inc/admin/class-plugin-settings.php:465
+#: inc/admin/class-plugin-settings.php:501
+#: inc/admin/class-plugin-settings.php:512
+msgid "Show"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:280
+msgid "Show related"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:281
+msgid "Show/hide Related Event section"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:291
+msgid "Number of related"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:292
+msgid "Enter number, default 3"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:299
+msgid "Remove click on button"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:300
+msgid ""
+"Remove click event on qty button when your theme has already added this event"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:310
+msgid "Enable Review for Event"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:321
+#: inc/admin/class-plugin-settings.php:473
+msgid "Default max quantity of adult can select"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:322
+#: inc/admin/class-plugin-settings.php:330
+#: inc/admin/class-plugin-settings.php:338
+msgid "Enter number, default 5"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:329
+#: inc/admin/class-plugin-settings.php:481
+msgid "Default max quantity of Children can select"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:337
+#: inc/admin/class-plugin-settings.php:489
+msgid "Default max quantity of Infant can select "
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:345
+#: inc/admin/class-plugin-settings.php:497
+msgid "Default show Children field"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:356
+#: inc/admin/class-plugin-settings.php:508
+msgid "Default show Infant field"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:368
+msgid "Custom Code"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:373
+msgid "Paste your CSS code"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:374
+msgid "Add custom CSS code to the plugin without modifying files"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:381
+msgid "Paste your js code"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:382
+msgid "Add custom js code to the plugin without modifying files"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:390
+msgid "Js & Css file"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:395
+msgid "Turn off Font Awesome"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:396
+msgid ""
+"Turn off loading plugin's Font Awesome. Check if your theme has already "
+"loaded this library"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:402
+msgid "Turn off Bootstrap Css file"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:403
+msgid ""
+"Turn off loading plugin's Bootstrap library. Check if your theme has already "
+"loaded this library"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:409
+msgid "Turn off Google Font"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:410
+msgid "Turn off loading Google Font"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:416
+msgid "Plugin Style"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:417
+msgid "Select Off to disable load plugin style"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:439
+msgid "Default Layout Purpose"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:443 inc/admin/class-tour-meta.php:67
+#: inc/admin/class-tour-meta.php:92
+msgid "WooCommere"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:450
+msgid "Meta position"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:474
+#: inc/admin/class-plugin-settings.php:482
+#: inc/admin/class-plugin-settings.php:490
+msgid "Enter number, default 20"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:519
+msgid "Remove all select quantity field"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:645
+msgid "Upload an image"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:645
+msgid "Use image"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:645
+msgid "Upload new image"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:646
+msgid "Remove image"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:703
+msgid "Save Settings"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:17
+msgid "Select day:"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:20
+msgid "Tuesday"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:21
+msgid "Wednesday"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:22
+msgid "Thursday"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:23
+msgid "Friday"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:24
+msgid "Saturday"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:28
+msgid "Leave blank to use for daily tour"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:31
+msgid "Disable date:"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:31
+msgid "Select disable date for this tour"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:33
+msgid "Special Date:"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:33
+msgid "Select special date for this tour"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:34
+msgid "Expired Date:"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:34
+msgid "Select expired date for this tour"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:35
+msgid "Label name for Date select"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:35
+msgid "Enter text, leave blank to use default"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:36
+msgid "Quantity of each date select ( enter number )"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:40 shortcode/tour-table.php:44
+msgid "Duration"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:40
+msgid "Duration of tour"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:41
+msgid "Tour type"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:41
+msgid "Type of tour"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:42
+msgid "Transport"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:42
+msgid "Transport of tour"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:43
+msgid "Group size"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:43
+msgid "Min & Maximum number people of tour"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:45 templates/content-tour-acco.php:8
+msgid "Accompanied service"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:45
+msgid "Add Accompanied service Info for this tour"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:50
+msgid "Tour price for Children"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:50 inc/admin/class-tour-meta.php:54
+msgid "Enter OFF to hide this field"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:51 inc/admin/class-tour-meta.php:55
+msgid "Max value"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:51 inc/admin/class-tour-meta.php:55
+#: inc/admin/class-tour-meta.php:58
+msgid "Max value can select"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:52
+msgid "Label name for children"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:52
+msgid "Default is Children:"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:54
+msgid "Tour price for Infant"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:56
+msgid "Label name for Infant"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:56
+msgid "Default is Infant:"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:58
+msgid "Max value adult"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:59
+msgid "Label name for Adult"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:59
+msgid "Default is Adult:"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:63 inc/admin/class-tour-meta.php:64
+msgid "Select \"Default\" to use settings in Event Options"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:64
+msgid "Hidden"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:67
+msgid "Select Layout Purpose for this product"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:72
+msgid "Time Settings"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:78
+msgid "Tour Info"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:84
+msgid "Additional Information"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:92
+msgid "Select Default to use setting in plugin setting"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:96
+msgid "Layout Purpose"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:104
+msgid "Layout Settings"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:110 shortcode/tour-carousel.php:141
+#: shortcode/tour-grid.php:193 shortcode/tour-table.php:196
+#: widgets/latest-tour.php:156
+msgid "Title"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:111
+msgid "Content"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:118
+msgid "Custom Field"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:123
+msgid "Custom Metadata"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:128
+msgid "Custom metadata for this post"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:137 inc/admin/class-tour-meta.php:138
+#: shortcode/tour-search.php:170 shortcode/tour-table.php:42
+#: templates/content-email-tour-details.php:20
+msgid "Location"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:139 widgets/tour-search.php:50
+msgid "Search"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:140
+msgid "All Locations"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:141
+msgid "Parent Location"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:142
+msgid "Parent Location:"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:143
+msgid "Edit Location"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:144
+msgid "Update Location"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:145
+msgid "Add New Location"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:146 shortcode/tour-search.php:25
+msgid "Locations"
+msgstr ""
+
+#: inc/admin/class-tour-meta.php:174
+msgid "Image Attachment ID"
+msgstr ""
+
+#: inc/admin/functions.php:361
+msgid "Edit all"
+msgstr ""
+
+#: inc/admin/functions.php:362
+msgid "Edit single"
+msgstr ""
+
+#: inc/admin/Meta-Boxes/class.exc_mb-meta-box.php:84
+msgid "Are you sure you want to delete this field?"
+msgstr ""
+
+#: inc/admin/Meta-Boxes/classes.fields.php:68
+msgid "Add New"
+msgstr ""
+
+#: inc/admin/Meta-Boxes/classes.fields.php:69
+msgid "Remove Field"
+msgstr ""
+
+#: inc/admin/Meta-Boxes/classes.fields.php:464
+msgid "Add File"
+msgstr ""
+
+#: inc/admin/Meta-Boxes/classes.fields.php:482
+#: inc/admin/Meta-Boxes/classes.fields.php:556
+msgid "Remove"
+msgstr ""
+
+#: inc/admin/Meta-Boxes/classes.fields.php:544
+msgid "Add Image"
+msgstr ""
+
+#: inc/admin/Meta-Boxes/classes.fields.php:1094
+#: shortcode/tour-carousel.php:155 shortcode/tour-grid.php:208
+#: shortcode/tour-table.php:210
+msgid "None"
+msgstr ""
+
+#: inc/admin/Meta-Boxes/classes.fields.php:1124
+msgid "Type to search"
+msgstr ""
+
+#: inc/admin/Meta-Boxes/classes.fields.php:1453
+msgid "Add New Group"
+msgstr ""
+
+#: inc/admin/Meta-Boxes/classes.fields.php:1454
+msgid "Remove Group"
+msgstr ""
+
+#: inc/admin/Meta-Boxes/classes.fields.php:1653
+msgid "Drag to set the exact location"
+msgstr ""
+
+#: shortcode/tour-carousel.php:72
+msgid "Wootours - Carousel"
+msgstr ""
+
+#: shortcode/tour-carousel.php:77 shortcode/tour-grid.php:113
+#: shortcode/tour-search.php:198 shortcode/tour-table.php:119
+msgid "Wootours"
+msgstr ""
+
+#: shortcode/tour-carousel.php:82 shortcode/tour-grid.php:134
+#: shortcode/tour-table.php:137
+msgid "IDs"
+msgstr ""
+
+#: shortcode/tour-carousel.php:85 shortcode/tour-grid.php:137
+#: shortcode/tour-table.php:140
+msgid "Specify post IDs to retrieve"
+msgstr ""
+
+#: shortcode/tour-carousel.php:90 shortcode/tour-grid.php:142
+#: shortcode/tour-table.php:145
+msgid "Count"
+msgstr ""
+
+#: shortcode/tour-carousel.php:93 shortcode/tour-grid.php:145
+#: shortcode/tour-table.php:148
+msgid "Number of posts"
+msgstr ""
+
+#: shortcode/tour-carousel.php:98 shortcode/tour-grid.php:150
+#: shortcode/tour-table.php:153
+msgid "Posts per page"
+msgstr ""
+
+#: shortcode/tour-carousel.php:101 shortcode/tour-grid.php:153
+#: shortcode/tour-table.php:156
+msgid "Number items per page"
+msgstr ""
+
+#: shortcode/tour-carousel.php:106 shortcode/tour-grid.php:158
+#: shortcode/tour-search.php:121 shortcode/tour-table.php:161
+msgid "Category"
+msgstr ""
+
+#: shortcode/tour-carousel.php:109 shortcode/tour-grid.php:161
+#: shortcode/tour-table.php:164
+msgid "List of cat ID (or slug), separated by a comma"
+msgstr ""
+
+#: shortcode/tour-carousel.php:114 shortcode/tour-grid.php:166
+#: shortcode/tour-search.php:145 shortcode/tour-table.php:169
+msgid "Tags"
+msgstr ""
+
+#: shortcode/tour-carousel.php:117 shortcode/tour-grid.php:169
+#: shortcode/tour-table.php:172
+msgid "List of tags, separated by a comma"
+msgstr ""
+
+#: shortcode/tour-carousel.php:123 shortcode/tour-grid.php:175
+#: shortcode/tour-table.php:178 widgets/latest-tour.php:164
+msgid "Order"
+msgstr ""
+
+#: shortcode/tour-carousel.php:126 shortcode/tour-grid.php:178
+#: shortcode/tour-table.php:181 widgets/latest-tour.php:166
+msgid "DESC"
+msgstr ""
+
+#: shortcode/tour-carousel.php:127 shortcode/tour-grid.php:179
+#: shortcode/tour-table.php:182 widgets/latest-tour.php:167
+msgid "ASC"
+msgstr ""
+
+#: shortcode/tour-carousel.php:135 shortcode/tour-grid.php:187
+#: shortcode/tour-table.php:190 widgets/latest-tour.php:151
+msgid "Order by"
+msgstr ""
+
+#: shortcode/tour-carousel.php:138 shortcode/tour-grid.php:190
+#: shortcode/tour-table.php:193
+msgid "Date"
+msgstr ""
+
+#: shortcode/tour-carousel.php:139 shortcode/tour-grid.php:191
+#: shortcode/tour-table.php:194
+msgid "ID"
+msgstr ""
+
+#: shortcode/tour-carousel.php:140 shortcode/tour-grid.php:192
+#: shortcode/tour-table.php:195
+msgid "Author"
+msgstr ""
+
+#: shortcode/tour-carousel.php:142 shortcode/tour-grid.php:194
+#: shortcode/tour-table.php:39 shortcode/tour-table.php:197
+msgid "Name"
+msgstr ""
+
+#: shortcode/tour-carousel.php:143 shortcode/tour-grid.php:195
+#: shortcode/tour-table.php:198
+msgid "Modified"
+msgstr ""
+
+#: shortcode/tour-carousel.php:144 shortcode/tour-grid.php:196
+#: shortcode/tour-table.php:199
+msgid "Parent"
+msgstr ""
+
+#: shortcode/tour-carousel.php:145 shortcode/tour-grid.php:197
+#: shortcode/tour-table.php:200 widgets/latest-tour.php:158
+msgid "Random"
+msgstr ""
+
+#: shortcode/tour-carousel.php:146 shortcode/tour-grid.php:198
+#: shortcode/tour-table.php:201
+msgid "Menu order"
+msgstr ""
+
+#: shortcode/tour-carousel.php:147 shortcode/tour-grid.php:199
+#: shortcode/tour-table.php:202
+msgid "Meta value"
+msgstr ""
+
+#: shortcode/tour-carousel.php:148 shortcode/tour-grid.php:200
+#: shortcode/tour-table.php:203
+msgid "Meta value num"
+msgstr ""
+
+#: shortcode/tour-carousel.php:149 shortcode/tour-grid.php:201
+#: shortcode/tour-table.php:204 widgets/latest-tour.php:157
+msgid "Post__in"
+msgstr ""
+
+#: shortcode/tour-carousel.php:150 shortcode/tour-grid.php:202
+#: shortcode/tour-table.php:205 widgets/latest-tour.php:154
+msgid "Unexpired"
+msgstr ""
+
+#: shortcode/tour-carousel.php:151 shortcode/tour-grid.php:203
+#: shortcode/tour-table.php:206 widgets/latest-tour.php:155
+msgid "Has expired"
+msgstr ""
+
+#: shortcode/tour-carousel.php:152 shortcode/tour-grid.php:205
+#: shortcode/tour-table.php:207
+msgid "Recently Viewed"
+msgstr ""
+
+#: shortcode/tour-carousel.php:153 shortcode/tour-grid.php:206
+#: shortcode/tour-table.php:208
+msgid "Sale"
+msgstr ""
+
+#: shortcode/tour-carousel.php:154 shortcode/tour-grid.php:207
+#: shortcode/tour-table.php:209
+msgid "Featured"
+msgstr ""
+
+#: shortcode/tour-carousel.php:163
+msgid "Autoplay"
+msgstr ""
+
+#: shortcode/tour-carousel.php:174 shortcode/tour-grid.php:215
+msgid "Number of Excerpt"
+msgstr ""
+
+#: shortcode/tour-carousel.php:177 shortcode/tour-grid.php:218
+msgid "Enter number"
+msgstr ""
+
+#: shortcode/tour-grid.php:70 shortcode/tour-table.php:82
+msgid "Load more"
+msgstr ""
+
+#: shortcode/tour-grid.php:89 shortcode/tour-table.php:101
+msgid "No Tour Found"
+msgstr ""
+
+#: shortcode/tour-grid.php:91
+msgid "Please Login to See"
+msgstr ""
+
+#: shortcode/tour-grid.php:108
+msgid "WooTours - Grid"
+msgstr ""
+
+#: shortcode/tour-grid.php:119
+msgid "Columns"
+msgstr ""
+
+#: shortcode/tour-grid.php:123
+msgid "1 columns"
+msgstr ""
+
+#: shortcode/tour-grid.php:124
+msgid "2 columns"
+msgstr ""
+
+#: shortcode/tour-grid.php:125
+msgid "3 columns"
+msgstr ""
+
+#: shortcode/tour-grid.php:126
+msgid "4 columns"
+msgstr ""
+
+#: shortcode/tour-grid.php:127
+msgid "5 columns"
+msgstr ""
+
+#: shortcode/tour-grid.php:204
+msgid "Has signed up"
+msgstr ""
+
+#: shortcode/tour-search.php:51
+#, php-format
+msgid "%d Tours"
+msgstr ""
+
+#: shortcode/tour-search.php:51
+#, php-format
+msgid "%d Tour"
+msgstr ""
+
+#: shortcode/tour-search.php:75
+msgid "I want to travel to..."
+msgstr ""
+
+#: shortcode/tour-search.php:105 widgets/tour-search.php:38
+#: widgets/tour-search.php:40
+msgid "All"
+msgstr ""
+
+#: shortcode/tour-search.php:193
+msgid "WooTours - Search"
+msgstr ""
+
+#: shortcode/tour-search.php:203
+msgid "Included Locations"
+msgstr ""
+
+#: shortcode/tour-search.php:206
+msgid "List of location ID (or slug), separated by a comma, Ex: 13,14"
+msgstr ""
+
+#: shortcode/tour-search.php:212
+msgid "Show filters"
+msgstr ""
+
+#: shortcode/tour-search.php:223
+msgid "Included Cats in filter"
+msgstr ""
+
+#: shortcode/tour-search.php:226
+msgid "List of Cats ID (or slug), separated by a comma, Ex: 13,14"
+msgstr ""
+
+#: shortcode/tour-search.php:231
+msgid "Included Tags in filter"
+msgstr ""
+
+#: shortcode/tour-search.php:234
+msgid "List of Tags ID (or slug), separated by a comma, Ex: 13,14"
+msgstr ""
+
+#: shortcode/tour-search.php:240
+msgid "Show list of locations"
+msgstr ""
+
+#: shortcode/tour-table.php:37
+msgid "Image"
+msgstr ""
+
+#: shortcode/tour-table.php:40
+msgid "Details"
+msgstr ""
+
+#: shortcode/tour-table.php:114
+msgid "WooTours - Table"
+msgstr ""
+
+#: shortcode/tour-table.php:125 widgets/latest-tour.php:125
+msgid "Style"
+msgstr ""
+
+#: shortcode/tour-table.php:129 widgets/latest-tour.php:127
+msgid "Classic"
+msgstr ""
+
+#: shortcode/tour-table.php:130 widgets/latest-tour.php:128
+msgid "Modern"
+msgstr ""
+
+#: shortcode/content/content-table.php:53
+msgid "Sku"
+msgstr ""
+
+#: templates/content-email-tour-details.php:18
+msgid "Tour Name"
+msgstr ""
+
+#: templates/content-email-tour-details.php:49
+msgid "Start Date"
+msgstr ""
+
+#: templates/content-email-tour-details.php:50
+msgid "End Date"
+msgstr ""
+
+#: templates/content-tour-meta.php:24
+msgid "Tour info"
+msgstr ""
+
+#: templates/content-tour-meta.php:36
+msgid "Duration:"
+msgstr ""
+
+#: templates/content-tour-meta.php:50
+msgid "Transport:"
+msgstr ""
+
+#: templates/content-tour-meta.php:65
+msgid "Tour Type:"
+msgstr ""
+
+#: templates/content-tour-meta.php:81
+msgid "SKU:"
+msgstr ""
+
+#: templates/content-tour-meta.php:95
+msgid "Group size:"
+msgstr ""
+
+#: templates/content-tour-meta.php:110
+msgid "Location:"
+msgstr ""
+
+#: templates/related.php:61
+msgid "Related Products"
+msgstr ""
+
+#: templates/related.php:61
+msgid "Related Tour"
+msgstr ""
+
+#: widgets/latest-tour.php:7
+msgid "Latest Events"
+msgstr ""
+
+#: widgets/latest-tour.php:9
+msgid "WT - Latest Tour "
+msgstr ""
+
+#: widgets/latest-tour.php:120 widgets/tour-search.php:85
+msgid "Title:"
+msgstr ""
+
+#: widgets/latest-tour.php:133
+msgid "ID list show:"
+msgstr ""
+
+#: widgets/latest-tour.php:137
+msgid "Tags:"
+msgstr ""
+
+#: widgets/latest-tour.php:141
+msgid "Categories : (ID or Slug. Ex: 1, 2)"
+msgstr ""
+
+#: widgets/latest-tour.php:146
+msgid "Number:"
+msgstr ""
+
+#: widgets/latest-tour.php:153
+msgid "Latest"
+msgstr ""
+
+#: widgets/tour-search.php:7
+msgid "Events Search "
+msgstr ""
+
+#: widgets/tour-search.php:9
+msgid "WT - Tour Search "
+msgstr ""
+
+#: widgets/tour-search.php:88
+msgid "Included Categories (IDs. Ex: 68, 86)"
+msgstr ""

@@ -1,0 +1,25 @@
+$heightInput: 40px;
+$borderRadius: 10px;
+$borderLeft: 2px solid #333;
+$borderRight: 2px solid #333;
+$borderTop: 2px solid #333;
+$borderBottom: 2px solid #333;
+$boxShadow: 0 0 10px red;
+$bgColorInput: #fff;
+$textColorInput: #000;
+$placeholderColorInput: #777;
+
+.asfbSelect {
+  width: 100%;
+  height: $heightInput;
+  border-radius: $borderRadius;
+  border: none;
+  border-left: $borderLeft;
+  border-right: $borderRight;
+  border-top: $borderTop;
+  border-bottom: $borderBottom;
+  background: #fff;
+  box-shadow: 0 0 10px red;
+  padding-left: 10px;
+  padding-right: 10px;
+}
